@@ -26,7 +26,7 @@ Integrating AI into my workflow allows me to focus on building robust features a
   - Leveraged AI assistance to review code, ensure security standards, and streamline UI implementation.
 
 - **Tic Tac Toe Game**
-  - Built a classic Tic Tac Toe game using HTML/CSS and JavaScript.
+  - Built a classic Tic Tac Toe game using React,ShadCN and Typescript.
   - Emphasized interactive UI, responsive design, and clean component structure.
   - Added features like player turn indication, win/tie detection, and game reset.
   - Used AI tools for rapid prototyping, debugging, and improving game logic.
