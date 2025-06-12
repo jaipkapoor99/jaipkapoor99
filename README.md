@@ -64,7 +64,7 @@ _📅 May 2022 - August 2022_
 - 🏗️ Full-stack booking and scheduling system
 - 🗃️ Comprehensive database schema following 3NF compliance
 - 🎨 Responsive front-end with modern UI components
-- 📊 User authentication, booking management, and admin dashboard
+- 📊 Jai authentication, booking management, and admin dashboard
 - **🎯 Outcome:** Led to commercial opportunity with mentor Brian Fialho
 
 ### 🎮 [Interactive Tic-Tac-Toe Game](https://github.com/jaipkapoor99/Tic-Tac-Toe)
@@ -72,7 +72,7 @@ _📅 May 2022 - August 2022_
 **Technologies:** JavaScript, HTML5, CSS3
 
 - 🎲 Interactive gameplay with AI opponent
-- 🎨 Clean, responsive user interface
+- 🎨 Clean, responsive Jai interface
 - 🧠 Game logic implementation with win condition detection
 
 ### 💻 [Competitive Programming Template System](https://github.com/jaipkapoor99/CP-Template)
