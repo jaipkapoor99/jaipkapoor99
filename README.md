@@ -11,6 +11,8 @@
 
 I'm a passionate software engineer who thrives at the intersection of **algorithmic problem-solving** and **practical application development**. My journey in technology is driven by an insatiable curiosity to understand complex systems and a desire to build solutions that make a meaningful impact.
 
+My competitive programming background has instilled in me a deep appreciation for efficient algorithms and optimal solutions, skills that I seamlessly translate into real-world software development. I believe that the analytical mindset developed through solving 757+ algorithmic challenges has made me a more thoughtful and systematic developer.
+
 - 🔭 Currently building production-ready applications with **React** and **TypeScript**
 - 🌱 Exploring **Artificial Intelligence** and **Large Language Models**
 - 💪 Solved **757+ algorithmic challenges** across competitive programming platforms
@@ -26,6 +28,7 @@ I'm a passionate software engineer who thrives at the intersection of **algorith
 
 - 🏫 N.M.I.M.S. University, Mumbai
 - 📊 CGPA: 3.11/4.00
+- 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
 
 **🎓 Higher Secondary Certificate (HSC)** _(12th Grade)_
 
@@ -84,21 +87,17 @@ _📅 May 2022 - August 2022_
 
 ## 🏆 Competitive Programming Stats
 
-<div align="center">
-
 ### 🟡 Codeforces
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1166-yellow?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/jaipkapoor)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1374-yellow?style=flat-square&logo=codeforces)](https://codeforces.com/profile/jaipkapoor)
 
 **Peak Rating:** 1374 (Pupil) | **Problems Solved:** 757+ | **Contests:** 56
 
 ### 🟢 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1628-green?style=for-the-badge&logo=leetcode)](https://leetcode.com/jaipkapoor99/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1628-green?style=flat-square&logo=leetcode)](https://leetcode.com/jaipkapoor99/)
 
 **Contest Rating:** 1628 | **Problems Solved:** 130/3580 | **Global Rank:** Top 19.62%
-
-</div>
 
 ---
 
@@ -156,13 +155,9 @@ _📅 May 2022 - August 2022_
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
 ![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical)
-
-</div>
 
 ---
 
@@ -186,13 +181,9 @@ I actively harness **AI-powered tools** and **Large Language Models** to acceler
 
 ---
 
-<div align="center">
-
 **Always open to collaborations and new opportunities in tech, AI, and full-stack development!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen)
-
-</div>
 
 ---
 
