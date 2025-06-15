@@ -60,21 +60,30 @@ This repository utilizes a highly automated workflow to ensure consistency, data
 
 ### Available Workflows
 
-```bash
+**Entry Point:** All workflows must be executed through the PowerShell script for proper orchestration:
+
+```powershell
 # Validate references only
-py scripts/script.py validate
+.\scripts\workflow.ps1 validate
 
 # Run pre-commit workflow (validation + processing)
-py scripts/script.py pre-commit
+.\scripts\workflow.ps1 pre-commit
 
 # Run post-push workflow (cloud sync + GitHub profile sync)
-py scripts/script.py post-push
+.\scripts\workflow.ps1 post-push
 
 # Update timestamp only
-py scripts/script.py timestamp
+.\scripts\workflow.ps1 timestamp
 
-# Run complete workflow
-py scripts/script.py all
+# Run complete workflow (default)
+.\scripts\workflow.ps1 full
+```
+
+**Development Mode:** For testing, you can bypass the entry point restriction:
+
+```powershell
+$env:THEMIND_DEV_MODE = '1'
+python scripts/script.py [workflow]
 ```
 
 ### Standard Commit Process
