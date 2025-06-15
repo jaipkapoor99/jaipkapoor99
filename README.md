@@ -51,7 +51,7 @@ This repository utilizes a highly automated workflow to ensure consistency, data
     - Identifying unreferenced files (excluding system files)
     - Reporting broken references with detailed diagnostics
 
-3.  **`scripts/commit_and_push.ps1`**: PowerShell orchestration script that:
+3.  **`scripts/workflow.ps1`**: PowerShell orchestration script that:
     - Reads commit message from `scripts/commit_message.txt`
     - Executes pre-commit validation and processing
     - Handles Git operations with commit message from file
@@ -84,7 +84,7 @@ py scripts/script.py all
 # Add your commit message to scripts/commit_message.txt
 
 # 2. Run the complete commit and push workflow
-.\scripts\commit_and_push.ps1
+.\scripts\workflow.ps1
 ```
 
 **Commit Message Format:**
