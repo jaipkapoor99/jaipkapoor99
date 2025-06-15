@@ -55,6 +55,7 @@ This repository utilizes a highly automated workflow to ensure consistency, data
     - Reads commit message from `scripts/commit_message.txt`
     - Executes pre-commit validation and processing
     - Handles Git operations with commit message from file
+    - Builds resume (HTML conversion and text sync) using integrated pandoc functionality
     - Triggers post-push cloud synchronization and GitHub profile updates
 
 ### Available Workflows
@@ -92,13 +93,16 @@ py scripts/master_script.py all
 - First non-comment line becomes the commit message
 - Lines starting with `#` are treated as comments
 - Support for multi-line messages
+- **Automatic Cleanup**: Commit message is automatically cleared after successful commit, preserving comment templates
 
 This process:
 
 1. **Message Reading**: Reads commit message from `scripts/commit_message.txt`
 2. **Pre-Commit**: Validates references, generates profiles, concatenates files, clears staging
 3. **Git Operations**: Commits with message from file and pushes to remote
-4. **Post-Push**: Syncs to cloud services (OneDrive and Google Drive) and updates GitHub profile
+4. **Message Cleanup**: Automatically clears commit message while preserving comment template
+5. **Resume Building**: Converts markdown resume to HTML using pandoc, syncs Resume.txt from Resume.md
+6. **Post-Push**: Syncs to cloud services (OneDrive and Google Drive) and updates GitHub profile
 
 ## Data Processing Methodology
 
