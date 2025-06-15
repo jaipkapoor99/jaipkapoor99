@@ -36,7 +36,7 @@ This repository utilizes a highly automated workflow to ensure consistency, data
 
 ### Core Scripts
 
-1.  **`scripts/master_script.py`**: The central automation hub that handles:
+1.  **`scripts/script.py`**: The central automation hub that handles:
 
     - **Reference Validation**: Ensures all file references in `Profile/Index.txt` are valid
     - **Profile Generation**: Creates competitive programming profiles from Codeforces and LeetCode APIs
@@ -62,19 +62,19 @@ This repository utilizes a highly automated workflow to ensure consistency, data
 
 ```bash
 # Validate references only
-py scripts/master_script.py validate
+py scripts/script.py validate
 
 # Run pre-commit workflow (validation + processing)
-py scripts/master_script.py pre-commit
+py scripts/script.py pre-commit
 
 # Run post-push workflow (cloud sync + GitHub profile sync)
-py scripts/master_script.py post-push
+py scripts/script.py post-push
 
 # Update timestamp only
-py scripts/master_script.py timestamp
+py scripts/script.py timestamp
 
 # Run complete workflow
-py scripts/master_script.py all
+py scripts/script.py all
 ```
 
 ### Standard Commit Process
@@ -195,10 +195,10 @@ The repository includes comprehensive resume management:
 ## Getting Started
 
 1. **Clone the repository**
-2. **Install Python dependencies** (see `scripts/master_script.py` for requirements)
+2. **Install Python dependencies** (see `scripts/script.py` for requirements)
 3. **Configure cloud credentials** (OneDrive path, Google API credentials)
 4. **Set up GitHub profile repository** (clone `jaipkapoor99` repository locally)
-5. **Run validation**: `py scripts/master_script.py validate`
+5. **Run validation**: `py scripts/script.py validate`
 6. **Follow daily workflow**: Add data to `Data_Dump.txt` → Process → Commit
 
 ## Troubleshooting
