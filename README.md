@@ -52,8 +52,9 @@ This repository utilizes a highly automated workflow to ensure consistency, data
     - Reporting broken references with detailed diagnostics
 
 3.  **`scripts/commit_and_push.ps1`**: PowerShell orchestration script that:
+    - Reads commit message from `scripts/commit_message.txt`
     - Executes pre-commit validation and processing
-    - Handles Git operations with user-provided commit messages
+    - Handles Git operations with commit message from file
     - Triggers post-push cloud synchronization and GitHub profile updates
 
 ### Available Workflows
@@ -78,15 +79,26 @@ py scripts/master_script.py all
 ### Standard Commit Process
 
 ```powershell
-# Run the complete commit and push workflow
-.\scripts\commit_and_push.ps1 "Your commit message"
+# 1. Edit the commit message file
+# Add your commit message to scripts/commit_message.txt
+
+# 2. Run the complete commit and push workflow
+.\scripts\commit_and_push.ps1
 ```
+
+**Commit Message Format:**
+
+- Edit `scripts/commit_message.txt` with your commit message
+- First non-comment line becomes the commit message
+- Lines starting with `#` are treated as comments
+- Support for multi-line messages
 
 This process:
 
-1. **Pre-Commit**: Validates references, generates profiles, concatenates files, clears staging
-2. **Git Operations**: Commits with user message and pushes to remote
-3. **Post-Push**: Syncs to cloud services (OneDrive and Google Drive) and updates GitHub profile
+1. **Message Reading**: Reads commit message from `scripts/commit_message.txt`
+2. **Pre-Commit**: Validates references, generates profiles, concatenates files, clears staging
+3. **Git Operations**: Commits with message from file and pushes to remote
+4. **Post-Push**: Syncs to cloud services (OneDrive and Google Drive) and updates GitHub profile
 
 ## Data Processing Methodology
 
