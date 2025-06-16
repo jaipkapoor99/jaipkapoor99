@@ -87,18 +87,37 @@ _📅 May 2022 - August 2022_
 
 ## 🛠️ Projects Portfolio
 
-### 📱 Booking Platform (2025) - _Production Ready_
+### 🎟️ Bookify - Event Booking Platform (2025) - _Production Ready_
 
-**🔗 Repository:** [github.com/jaipkapoor99/booking-platform](https://github.com/jaipkapoor99/booking-platform)
+**🔗 Repository:** [github.com/jaipkapoor99/bookify](https://github.com/jaipkapoor99/bookify)
 
-- **⚡ Technologies:** React, TypeScript, Vite, Supabase, Shadcn
-- **✅ Status:** Production-ready MVP completed
-- 🏗️ Designed and implemented full-stack booking and scheduling system
-- 🗃️ Created comprehensive database schema following 3NF compliance
-- 🎨 Developed responsive front-end with modern UI components
-- 🔗 Successfully integrated backend APIs with real-time functionality
-- 📊 Implemented user authentication, booking management, and admin dashboard
-- **🎯 Outcome:** Project led to commercial opportunity with mentor Brian Fialho
+- **⚡ Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL, PostgreSQL
+- **✅ Status:** Production-ready with CI/CD pipeline (87+ commits)
+- **🏗️ Full-Stack Architecture:**
+  - Designed and implemented comprehensive event booking and ticketing system
+  - Built modular API architecture with clean separation (auth-client, database-client)
+  - Developed responsive, mobile-first UI with shadcn/ui components
+- **🗄️ Advanced Database Engineering:**
+  - Architected complex relational schema with 6+ normalized tables (Users, Events, Venues, Tickets)
+  - Implemented Row Level Security (RLS) policies for data protection
+  - Created atomic database functions: `book_ticket()` with availability checks, `get_my_bookings()`
+  - Designed efficient many-to-many relationships (Events-Venues) with date-based partitioning
+- **🔒 Security & Performance:**
+  - JWT authentication with Google OAuth integration
+  - Intelligent caching system with 5-minute TTL for optimal performance
+  - Type-safe validation throughout frontend and backend
+  - Comprehensive error handling and graceful failure management
+- **🚀 DevOps & Quality:**
+  - Integrated CI/CD pipeline for automated testing and deployment
+  - 100% TypeScript coverage with ESLint configuration
+  - Comprehensive test suites using Jest and React Testing Library
+  - Complete documentation suite (API docs, architecture guide, deployment guide)
+- **📊 Key Features:**
+  - Real-time ticket availability tracking
+  - Instant booking history with zero-second load times
+  - Image upload system with Supabase Storage integration
+  - Admin dashboard for event management
+- **🎯 Outcome:** Led to commercial opportunity and mentor validation for enterprise-grade code quality
 
 ### 🏆 Universal C++20 Competitive Programming Template - _Production Grade_
 
@@ -185,10 +204,13 @@ _📅 May 2022 - August 2022_
 
 ### 🗄️ Databases & Tools
 
-- **💾 Databases:** PostgreSQL, Supabase
-- **🔧 Development Tools:** Git, Vite, Prisma ORM, Cursor, VS Code
-- **📐 Design:** Database schema design, ER modeling
-- **🤖 Automation:** PowerShell, Bash, Python scripting, CI/CD workflows
+- **💾 Databases:** PostgreSQL, Supabase, PLpgSQL
+- **🔒 Database Security:** Row Level Security (RLS), JWT authentication, data access policies
+- **⚡ Database Functions:** Stored procedures, atomic transactions, custom database functions
+- **📐 Database Design:** Complex relational modeling, normalization (3NF), many-to-many relationships
+- **🔧 Development Tools:** Git, Vite, Prisma ORM, Cursor, VS Code, Supabase Studio
+- **🚀 DevOps:** CI/CD pipelines, automated testing, deployment automation
+- **🤖 Automation:** PowerShell, Bash, Python scripting, workflow orchestration
 
 ### 🧠 Algorithmic Skills
 
@@ -216,14 +238,17 @@ _📅 May 2022 - August 2022_
 ## 🔬 Areas of Expertise
 
 - **🌐 Full-Stack Development:** End-to-end application development with modern technologies
+- **🗄️ Database Engineering:** Complex schema design, RLS security, stored procedures, performance optimization
 - **⚡ Advanced C++ Programming:** Template metaprogramming, modern standards, performance optimization
 - **🏛️ Algorithm Design & Implementation:** Complex data structures, advanced algorithmic techniques
 - **🧩 Systems Programming:** Low-level optimization, memory management, cross-platform development
 - **🎨 Software Architecture:** Clean code principles, modular design, automated testing frameworks
+- **🚀 DevOps & CI/CD:** Automated pipelines, testing strategies, deployment orchestration
 - **🎮 Interactive Application Development:** Game logic, state management, and user interaction design
 - **🔧 Developer Infrastructure:** Build systems, automation scripts, development workflow optimization
 - **📚 Code Organization:** Advanced C++ project structure, header-only libraries, template libraries
-- **🚀 Performance Engineering:** Algorithmic complexity analysis, optimization techniques, benchmarking
+- **🔒 Security Implementation:** Authentication systems, data protection, secure coding practices
+- **⚡ Performance Engineering:** Algorithmic complexity analysis, optimization techniques, benchmarking
 
 ---
 
