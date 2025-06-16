@@ -72,7 +72,7 @@ What sets me apart is my ability to bridge the gap between theoretical computer 
 
 My [Universal C++20 Competitive Programming Template](https://github.com/jaipkapoor99/CP-Template) exemplifies this philosophy—a production-grade system featuring modular architecture, automated testing frameworks, cross-platform script automation, and comprehensive algorithm libraries. This project demonstrates not just coding ability, but systems thinking, devops integration, and software engineering best practices.
 
-I'm particularly drawn to projects that challenge me to think creatively about system design, algorithm optimization, and technical implementation. My recent work on the booking platform project, which led to a commercial opportunity, exemplifies my commitment to delivering production-quality software that not only meets technical requirements but also provides genuine value to users.
+I'm particularly drawn to projects that challenge me to think creatively about system design, algorithm optimization, and technical implementation. My recent work on the Bookify project, which led to a commercial opportunity, exemplifies my commitment to delivering production-quality software that not only meets technical requirements but also provides genuine value to users.
 
 I'm constantly learning and evolving as a developer, staying current with modern C++ standards while deepening my understanding of fundamental computer science principles. I'm excited about opportunities to contribute to innovative projects where I can leverage my unique combination of advanced C++ expertise, algorithmic mastery, and full-stack development skills.
 
@@ -281,7 +281,7 @@ _📅 May 2022 - August 2022_
 
 ## 🎯 Key Achievements
 
-- **🚀 Production Deployment:** Successfully deployed booking platform with positive mentor feedback and commercial recognition
+- **🚀 Production Deployment:** Successfully deployed Bookify with positive mentor feedback and commercial recognition
 - **🧠 Algorithmic Excellence:** Solved 757+ unique competitive programming problems with advanced C++ implementations
 - **📈 Exceptional Performance:** Maintained 100% acceptance rate on LeetCode Hard problems, 77%+ across all difficulties
 - **🏗️ Systems Architecture:** Built comprehensive competitive programming infrastructure with cross-platform automation
