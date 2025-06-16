@@ -1,8 +1,8 @@
 ---
 title: "Jai Kapoor - Software Engineer Resume"
 author: "Jai Kapoor"
-email: "contact@jaipkapoor.dev"
-phone: "+91-XXXX-XXXX"
+email: "jaipkapoor99@gmail.com"
+phone: "+91 88980 12968"
 github: "https://github.com/jaipkapoor99"
 linkedin: "https://www.linkedin.com/in/jaipkapoor/"
 location: "Mumbai, India"
@@ -19,15 +19,42 @@ fontsize: 11pt
 
 ## Software Engineer
 
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
+[![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
+[![Profile views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/jaipkapoor99)
+
+</div>
+
 ---
 
 ### 📞 Contact Information
 
-- **👤 Name:** Jai Kapoor
-- **🐙 GitHub:** [jaipkapoor99](https://github.com/jaipkapoor99)
-- **💼 LinkedIn:** [jaipkapoor](https://www.linkedin.com/in/jaipkapoor/)
-- **📍 Location:** Mumbai, India
-- **🎂 Born:** July 28, 1999
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor/)
+[![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+- **🎂 Born:** 28 July, 1999
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaipkapoor99&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -53,13 +80,13 @@ I'm constantly learning and evolving as a developer, staying current with modern
 
 ## 🎓 Education
 
-**🏛️ B.Tech Computer Science** _(2018 - April 2022)_
+**🏛️ B.Tech Computer Science** _(July 2018 - April 2022)_
 
 - 🏫 N.M.I.M.S. University, Mumbai
 - 📊 CGPA: 3.11/4.00
 - 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
 
-**🎓 Higher Secondary Certificate (HSC)** _(12th Grade)_
+**🎓 Higher Secondary Certificate (HSC)** _(12th Grade 2017)_
 
 - 🏫 Nirmala Memorial Foundation College
 - 📈 Percentage: 70.77%
@@ -88,6 +115,12 @@ _📅 May 2022 - August 2022_
 ## 🛠️ Projects Portfolio
 
 ### 🎟️ Bookify - Event Booking Platform (2025) - _Production Ready_
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
+
+</div>
 
 **🔗 Repository:** [github.com/jaipkapoor99/bookify](https://github.com/jaipkapoor99/bookify)
 
@@ -121,6 +154,12 @@ _📅 May 2022 - August 2022_
 
 ### 🏆 Universal C++20 Competitive Programming Template - _Production Grade_
 
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
+
+</div>
+
 **🔗 Repository:** [github.com/jaipkapoor99/CP-Template](https://github.com/jaipkapoor99/CP-Template)
 
 - **⚡ Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform Development
@@ -144,6 +183,12 @@ _📅 May 2022 - August 2022_
 
 ### 🎮 Interactive Tic-Tac-Toe Game
 
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
+
+</div>
+
 **🔗 Repository:** [github.com/jaipkapoor99/Tic-Tac-Toe](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
 - **⚡ Technologies:** JavaScript, HTML5, CSS3
@@ -157,6 +202,13 @@ _📅 May 2022 - August 2022_
 ---
 
 ## 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
+
+</div>
 
 ### 🟡 Codeforces (Handle: jaipkapoor)
 
@@ -181,6 +233,12 @@ _📅 May 2022 - August 2022_
 ---
 
 ## 🛠️ Technical Skills
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### 💻 Programming Languages
 
@@ -276,6 +334,20 @@ _📅 May 2022 - August 2022_
 - **🤝 Collaboration:** Experience working with mentors and receiving constructive feedback
 - **🌱 Growth Mindset:** Committed to continuous learning and skill development
 - **✅ Availability:** Open to full-time software engineering opportunities
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
