@@ -60,7 +60,7 @@ fontsize: 11pt
 
 ## 🚀 Professional Summary
 
-Software Engineer with advanced C++20 expertise and extensive competitive programming background. Demonstrated mastery in algorithmic problem-solving with 757+ problems solved across platforms, combined with production-ready full-stack development experience using React, Vue.js 3, and Flask. Expert in modern C++ features, template metaprogramming, and cross-platform development with proven ability to architect sophisticated systems, automated toolchains, and comprehensive web applications. 💪
+Software Engineer with advanced C++20 expertise and extensive competitive programming background. Demonstrated mastery in algorithmic problem-solving with 757+ problems solved across platforms, combined with production-ready full-stack development experience. Expert in modern C++ features, template metaprogramming, and cross-platform development with proven ability to architect sophisticated systems and automated toolchains. 💪
 
 ## 💭 Personal Statement
 
@@ -72,7 +72,7 @@ What sets me apart is my ability to bridge the gap between theoretical computer 
 
 My [Universal C++20 Competitive Programming Template](https://github.com/jaipkapoor99/CP-Template) exemplifies this philosophy—a production-grade system featuring modular architecture, automated testing frameworks, cross-platform script automation, and comprehensive algorithm libraries. This project demonstrates not just coding ability, but systems thinking, devops integration, and software engineering best practices.
 
-I'm particularly drawn to projects that challenge me to think creatively about system design, algorithm optimization, and technical implementation. My recent work on the Bookify project, which led to a commercial opportunity, exemplifies my commitment to delivering production-quality software that not only meets technical requirements but also provides genuine value to users.
+I'm particularly drawn to projects that challenge me to think creatively about system design, algorithm optimization, and technical implementation. My recent work on the booking platform project, which led to a commercial opportunity, exemplifies my commitment to delivering production-quality software that not only meets technical requirements but also provides genuine value to users.
 
 I'm constantly learning and evolving as a developer, staying current with modern C++ standards while deepening my understanding of fundamental computer science principles. I'm excited about opportunities to contribute to innovative projects where I can leverage my unique combination of advanced C++ expertise, algorithmic mastery, and full-stack development skills.
 
@@ -181,44 +181,6 @@ _📅 May 2022 - August 2022_
 - **🎯 Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique problems
 - **📈 Innovation:** AI-assisted development approach ensuring modern C++ best practices
 
-### 🧠 The-Mind: Therapeutic Data Management System (2025) - _Production Ready_
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Mind&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/The-Mind)
-
-</div>
-
-**🔗 Repository:** [github.com/jaipkapoor99/The-Mind](https://github.com/jaipkapoor99/The-Mind)
-
-- **⚡ Technologies:** Vue.js 3, Flask, Python, Tailwind CSS, PostgreSQL, PowerShell, Bash
-- **✅ Status:** Complete therapeutic data management system with modern web dashboard
-- **🎯 System Architecture:**
-  - **Vue.js 3 Dashboard:** Modern SPA with component-based architecture, Vuex state management, Vue Router
-  - **Flask API Backend:** RESTful endpoints with CORS support, health monitoring, analytics generation
-  - **Automated Workflow:** PowerShell/Bash orchestration with Git integration, cloud sync, resume building
-  - **AI Integration:** Automated data processing with timestamp generation and intelligent categorization
-- **🏥 Therapeutic Features:**
-  - **Advanced Entry System:** Quick entry, structured forms for therapy sessions, mood tracking, CBT analysis
-  - **🆕 Craving Management:** Complete tracking system with intensity rating, trigger documentation, outcome recording
-  - **🆕 Flexible Categories:** Custom entry types for personal, work, relationships, health, goals, insights
-  - **Real-time Analytics:** Interactive charts, mood trend analysis, pattern recognition, sentiment tracking
-- **🎨 Professional UI/UX:**
-  - **Custom Logo Integration:** Professional SVG logo throughout interface with multiple size variants
-  - **Responsive Design:** Mobile-first approach with Tailwind CSS styling
-  - **Modern Components:** Reusable Vue components with consistent design system
-- **🔧 Technical Implementation:**
-  - **Data Flow:** Dashboard → Flask API → Data_Dump.txt → AI Processing → Structured Files → Analytics
-  - **Automated Setup:** PowerShell scripts for dependency installation and server management
-  - **Cross-Platform:** Windows PowerShell and Unix Bash script compatibility
-  - **Production Ready:** Health endpoints, error handling, graceful failure management
-- **📊 Key Achievements:**
-  - Built comprehensive therapeutic data visualization and entry system
-  - Implemented sophisticated workflow automation with multi-stage processing
-  - Created production-grade Vue.js application with modern development practices
-  - Designed intelligent data categorization and AI-assisted processing pipeline
-- **🎯 Impact:** Demonstrates full-stack development skills, modern frontend frameworks, API design, and complex workflow automation
-
 ### 🎮 Interactive Tic-Tac-Toe Game
 
 <div align="center">
@@ -274,7 +236,7 @@ _📅 May 2022 - August 2022_
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,vue,flask,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -294,8 +256,8 @@ _📅 May 2022 - August 2022_
 
 ### 📚 Frameworks & Libraries
 
-- **🎨 Frontend:** React, Vue.js 3, Next.js, Tailwind CSS, Shadcn/UI
-- **⚙️ Backend:** Flask, Node.js, NestJS
+- **🎨 Frontend:** React, Next.js, Vue.js, Tailwind CSS, Shadcn
+- **⚙️ Backend:** Node.js, NestJS
 - **🧪 Testing:** Custom test frameworks, stress testing, automated validation
 
 ### 🗄️ Databases & Tools
@@ -319,8 +281,7 @@ _📅 May 2022 - August 2022_
 
 ## 🎯 Key Achievements
 
-- **🚀 Production Deployment:** Successfully deployed Bookify with positive mentor feedback and commercial recognition
-- **🧠 Full-Stack Innovation:** Built comprehensive therapeutic data management system with Vue.js 3 dashboard and Flask API backend
+- **🚀 Production Deployment:** Successfully deployed booking platform with positive mentor feedback and commercial recognition
 - **🧠 Algorithmic Excellence:** Solved 757+ unique competitive programming problems with advanced C++ implementations
 - **📈 Exceptional Performance:** Maintained 100% acceptance rate on LeetCode Hard problems, 77%+ across all difficulties
 - **🏗️ Systems Architecture:** Built comprehensive competitive programming infrastructure with cross-platform automation
