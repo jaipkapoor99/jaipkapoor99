@@ -1,10 +1,10 @@
 ---
 title: "Jai Kapoor - Software Engineer Resume"
 author: "Jai Kapoor"
-email: "jaipkapoor99@gmail.com"
+email: "<jaipkapoor99@gmail.com>"
 phone: "+91 88980 12968"
-github: "https://github.com/jaipkapoor99"
-linkedin: "https://www.linkedin.com/in/jaipkapoor/"
+github: "<https://github.com/jaipkapoor99>"
+linkedin: "<https://www.linkedin.com/in/jaipkapoor/>"
 location: "Mumbai, India"
 date: "June 12, 2025"
 subject: "Software Engineer Resume"
@@ -15,48 +15,30 @@ fontfamily: "Source Sans Pro"
 fontsize: 11pt
 ---
 
-# Jai Kapoor
+## Jai Kapoor
 
 ## Software Engineer
-
-<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
 [![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
 [![Profile views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/jaipkapoor99)
 
-</div>
-
----
-
 ### Contact Information
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor/)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Mumbai,+Maharashtra,+India)
 
-</div>
-
 - **Born:** 28 July, 1999
 
----
-
 ## GitHub Statistics
-
-<div align="center">
 
 ![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaipkapoor99&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## Professional Summary
 
@@ -107,8 +89,6 @@ science principles. I'm excited about opportunities to contribute to innovative
 projects where I can leverage my unique combination of advanced C++ expertise,
 algorithmic mastery, and full-stack development skills.
 
----
-
 ## Education
 
 **B.Tech Computer Science** _(July 2018 - April 2022)_
@@ -124,35 +104,29 @@ algorithmic mastery, and full-stack development skills.
 - Percentage: 70.77%
 - Board: HSC (Higher Secondary Certificate)
 
----
-
 ## Professional Experience
 
 ### Software Engineer - Flexera (Remote)
 
-**December 2022 - November 2023**
+#### December 2022 - November 2023
 
 - Developed and maintained software solutions in a remote-first environment
 - Collaborated with cross-functional teams on enterprise-level applications
 
 ### Software Engineer - Lentra (Pune)
 
-**May 2022 - August 2022**
+#### May 2022 - August 2022**
 
 - Contributed to fintech applications and backend systems
 - Gained experience in production software development
 
----
+##
 
 ## Projects Portfolio
 
 ### Bookify - Event Booking Platform (2025) - _Production Ready_
 
-<div align="center">
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
-
-</div>
 
 **Repository:** [github.com/jaipkapoor99/bookify](https://github.com/jaipkapoor99/bookify)
 
@@ -193,11 +167,7 @@ algorithmic mastery, and full-stack development skills.
 
 ### Universal C++20 Competitive Programming Template - _Production Grade_
 
-<div align="center">
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
-
-</div>
 
 **Repository:** [github.com/jaipkapoor99/CP-Template](https://github.com/jaipkapoor99/CP-Template)
 
@@ -231,11 +201,7 @@ algorithmic mastery, and full-stack development skills.
 
 ### Interactive Tic-Tac-Toe Game
 
-<div align="center">
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
-
-</div>
 
 **Repository:** [github.com/jaipkapoor99/Tic-Tac-Toe](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
@@ -248,16 +214,10 @@ algorithmic mastery, and full-stack development skills.
 - **Learning Focus:** DOM manipulation, game state management, algorithmic
   thinking
 
----
-
 ## Competitive Programming Achievements
-
-<div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
-
-</div>
 
 ### Codeforces (Handle: jaipkapoor)
 
@@ -279,15 +239,9 @@ algorithmic mastery, and full-stack development skills.
 - **Global Ranking:** 135,699 (Top 19.62%)
 - **Contests Attended:** 6
 
----
-
 ## Technical Skills
 
-<div align="center">
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ### Programming Languages
 
@@ -338,8 +292,6 @@ algorithmic mastery, and full-stack development skills.
 - **Data Structures:** Custom implementations of complex data structures,
   memory-efficient designs
 
----
-
 ## Key Achievements
 
 - **Production Deployment:** Successfully deployed booking platform with positive
@@ -360,8 +312,6 @@ algorithmic mastery, and full-stack development skills.
   showcasing advanced C++ and software engineering skills
 - **Performance Optimization:** Expert in writing efficient, cache-friendly C++
   code for competitive programming constraints
-
----
 
 ## Areas of Expertise
 
@@ -390,8 +340,6 @@ algorithmic mastery, and full-stack development skills.
 - **Performance Engineering:** Algorithmic complexity analysis, optimization
   techniques, benchmarking
 
----
-
 ## Professional Development
 
 ### Current Focus (2025)
@@ -408,8 +356,6 @@ algorithmic mastery, and full-stack development skills.
 - Focusing on scalable architecture patterns and clean code principles
 - Deep-diving into systems programming and performance optimization
 
----
-
 ## Additional Information
 
 - **Work Style:** Detail-oriented with strong analytical thinking and systems
@@ -419,10 +365,6 @@ algorithmic mastery, and full-stack development skills.
 - **Growth Mindset:** Committed to continuous learning and skill development
 - **Availability:** Open to full-time software engineering opportunities
 
----
-
-<div align="center">
-
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
@@ -431,8 +373,4 @@ algorithmic mastery, and full-stack development skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
-</div>
-
----
-
-_Last Updated: June 12, 2025_
+### Last Updated: June 12, 2025
