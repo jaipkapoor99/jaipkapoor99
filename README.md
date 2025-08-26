@@ -99,23 +99,23 @@ algorithmic mastery, and full-stack development skills.
 
 ### Professional Experience
 
-**Software Engineer - Flexera (Remote)**
+### Software Engineer - Flexera (Remote)
 
-_December 2022 - November 2023_
+#### December 2022 - November 2023
 
 - Developed and maintained software solutions in a remote-first environment
 - Collaborated with cross-functional teams on enterprise-level applications
 
-**Software Engineer - Lentra (Pune)**
+### Software Engineer - Lentra (Pune)
 
-_May 2022 - August 2022_
+#### May 2022 - August 2022
 
 - Contributed to fintech applications and backend systems
 - Gained experience in production software development
 
 ### Projects Portfolio
 
-**Bookify - Event Booking Platform (2025) - _Production Ready_**
+#### Bookify - Event Booking Platform (2025) - Production Ready
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
 
@@ -156,7 +156,7 @@ _May 2022 - August 2022_
 - **Outcome:** Led to commercial opportunity and mentor validation for
   enterprise-grade code quality
 
-**Universal C++20 Competitive Programming Template - _Production Grade_**
+#### Universal C++20 Competitive Programming Template - Production Grade
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
 
@@ -190,7 +190,7 @@ _May 2022 - August 2022_
 - **Innovation:** AI-assisted development approach ensuring modern C++ best
   practices
 
-**Interactive Tic-Tac-Toe Game**
+#### Interactive Tic-Tac-Toe Game
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
@@ -210,7 +210,7 @@ _May 2022 - August 2022_
 [![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
 
-**Codeforces (Handle: jaipkapoor)**
+#### Codeforces (Handle: jaipkapoor)
 
 - **Current Rating:** 1166 (Newbie)
 - **Peak Rating:** 1374 (Pupil)
@@ -220,7 +220,7 @@ _May 2022 - August 2022_
 - **Best Rank:** 1150
 - **Primary Language:** C++20
 
-**LeetCode (Handle: jaipkapoor99)**
+#### LeetCode (Handle: jaipkapoor99)
 
 - **Problems Solved:** 130 / 3580
   - **Easy:** 59/880 (77.63% acceptance rate)
@@ -234,14 +234,14 @@ _May 2022 - August 2022_
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
 
-**Programming Languages**
+#### Programming Languages
 
 - **Expert:** C++20, C++17, C++14 (Template Metaprogramming, SFINAE, Variadic
   Templates, Concepts, Ranges)
 - **Proficient:** TypeScript, JavaScript, Python
 - **Familiar:** HTML5, CSS3
 
-**C++ Expertise**
+#### C++ Expertise
 
 - **Advanced Features:** Template specialization, CRTP, type traits, constexpr
   programming, move semantics
@@ -253,13 +253,13 @@ _May 2022 - August 2022_
   compiler intrinsics
 - **Toolchain:** GCC, Clang, MSVC, CMake, cross-platform development
 
-**Frameworks & Libraries**
+#### Frameworks & Libraries
 
 - **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Shadcn
 - **Backend:** Node.js, NestJS
 - **Testing:** Custom test frameworks, stress testing, automated validation
 
-**Databases & Tools**
+#### Databases & Tools
 
 - **Databases:** PostgreSQL, Supabase, PLpgSQL
 - **Database Security:** Row Level Security (RLS), JWT authentication, data
@@ -272,7 +272,7 @@ _May 2022 - August 2022_
 - **DevOps:** CI/CD pipelines, automated testing, deployment automation
 - **Automation:** PowerShell, Bash, Python scripting, workflow orchestration
 
-**Algorithmic Skills**
+#### Algorithmic Skills
 
 - **Advanced:** Dynamic Programming, Graph Algorithms (Dijkstra, Floyd-Warshall,
   MST), Binary Search Variants
@@ -333,14 +333,14 @@ _May 2022 - August 2022_
 
 ### Professional Development
 
-**Current Focus (2025)**
+#### Current Focus (2025)
 
 - Building commercial applications with React and TypeScript
 - Advancing competitive programming skills with focus on advanced algorithms
 - Exploring cutting-edge C++ features and performance optimization techniques
 - Developing production-ready software with industry mentorship
 
-**Learning Trajectory**
+#### Learning Trajectory
 
 - Continuously expanding knowledge of advanced C++ and template metaprogramming
 - Staying current with React ecosystem and modern development practices
