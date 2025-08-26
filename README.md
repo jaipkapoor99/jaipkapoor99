@@ -1,23 +1,18 @@
----
-title: "Jai Kapoor - Software Engineer Resume"
-author: "Jai Kapoor"
-email: "<jaipkapoor99@gmail.com>"
-phone: "+91 88980 12968"
-github: "<https://github.com/jaipkapoor99>"
-linkedin: "<https://www.linkedin.com/in/jaipkapoor/>"
-location: "Mumbai, India"
-date: "June 12, 2025"
-subject: "Software Engineer Resume"
-keywords: "Software Engineer, Full Stack Developer, Competitive Programming, React, TypeScript, C++"
-colorlinks: true
-geometry: margin=1in
-fontfamily: "Source Sans Pro"
-fontsize: 11pt
+# Jai Kapoor - Software Engineer Resume
+
+- **Author:** Jai Kapoor
+- **Email:** <jaipkapoor99@gmail.com>
+- **Phone:** +91 88980 12968
+- **GitHub:** <https://github.com/jaipkapoor99>
+- **LinkedIn:** <https://www.linkedin.com/in/jaipkapoor/>
+- **Location:** Mumbai, India
+- **Date:** June 12, 2025
+
 ---
 
 ## Jai Kapoor
 
-## Software Engineer
+### Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
 [![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
@@ -32,15 +27,13 @@ fontsize: 11pt
 
 - **Born:** 28 July, 1999
 
-## GitHub Statistics
+### GitHub Statistics
 
 ![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaipkapoor99&theme=radical&hide_border=true)
 
-## Professional Summary
+### Professional Summary
 
 Software Engineer with advanced C++20 expertise and extensive competitive
 programming background. Demonstrated mastery in algorithmic problem-solving with
@@ -49,7 +42,7 @@ development experience. Expert in modern C++ features, template metaprogramming,
 and cross-platform development with proven ability to architect sophisticated
 systems and automated toolchains.
 
-## Personal Statement
+### Personal Statement
 
 I am a passionate software engineer who thrives at the intersection of advanced
 algorithmic problem-solving and practical application development. My journey in
@@ -89,7 +82,7 @@ science principles. I'm excited about opportunities to contribute to innovative
 projects where I can leverage my unique combination of advanced C++ expertise,
 algorithmic mastery, and full-stack development skills.
 
-## Education
+### Education
 
 **B.Tech Computer Science** _(July 2018 - April 2022)_
 
@@ -104,27 +97,25 @@ algorithmic mastery, and full-stack development skills.
 - Percentage: 70.77%
 - Board: HSC (Higher Secondary Certificate)
 
-## Professional Experience
+### Professional Experience
 
-### Software Engineer - Flexera (Remote)
+**Software Engineer - Flexera (Remote)**
 
-#### December 2022 - November 2023
+_December 2022 - November 2023_
 
 - Developed and maintained software solutions in a remote-first environment
 - Collaborated with cross-functional teams on enterprise-level applications
 
-### Software Engineer - Lentra (Pune)
+**Software Engineer - Lentra (Pune)**
 
-#### May 2022 - August 2022**
+_May 2022 - August 2022_
 
 - Contributed to fintech applications and backend systems
 - Gained experience in production software development
 
-##
+### Projects Portfolio
 
-## Projects Portfolio
-
-### Bookify - Event Booking Platform (2025) - _Production Ready_
+**Bookify - Event Booking Platform (2025) - _Production Ready_**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
 
@@ -165,7 +156,7 @@ algorithmic mastery, and full-stack development skills.
 - **Outcome:** Led to commercial opportunity and mentor validation for
   enterprise-grade code quality
 
-### Universal C++20 Competitive Programming Template - _Production Grade_
+**Universal C++20 Competitive Programming Template - _Production Grade_**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
 
@@ -199,7 +190,7 @@ algorithmic mastery, and full-stack development skills.
 - **Innovation:** AI-assisted development approach ensuring modern C++ best
   practices
 
-### Interactive Tic-Tac-Toe Game
+**Interactive Tic-Tac-Toe Game**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
@@ -214,12 +205,12 @@ algorithmic mastery, and full-stack development skills.
 - **Learning Focus:** DOM manipulation, game state management, algorithmic
   thinking
 
-## Competitive Programming Achievements
+### Competitive Programming Achievements
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
 
-### Codeforces (Handle: jaipkapoor)
+**Codeforces (Handle: jaipkapoor)**
 
 - **Current Rating:** 1166 (Newbie)
 - **Peak Rating:** 1374 (Pupil)
@@ -229,7 +220,7 @@ algorithmic mastery, and full-stack development skills.
 - **Best Rank:** 1150
 - **Primary Language:** C++20
 
-### LeetCode (Handle: jaipkapoor99)
+**LeetCode (Handle: jaipkapoor99)**
 
 - **Problems Solved:** 130 / 3580
   - **Easy:** 59/880 (77.63% acceptance rate)
@@ -239,18 +230,18 @@ algorithmic mastery, and full-stack development skills.
 - **Global Ranking:** 135,699 (Top 19.62%)
 - **Contests Attended:** 6
 
-## Technical Skills
+### Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
 
-### Programming Languages
+**Programming Languages**
 
 - **Expert:** C++20, C++17, C++14 (Template Metaprogramming, SFINAE, Variadic
   Templates, Concepts, Ranges)
 - **Proficient:** TypeScript, JavaScript, Python
 - **Familiar:** HTML5, CSS3
 
-### C++ Expertise
+**C++ Expertise**
 
 - **Advanced Features:** Template specialization, CRTP, type traits, constexpr
   programming, move semantics
@@ -262,13 +253,13 @@ algorithmic mastery, and full-stack development skills.
   compiler intrinsics
 - **Toolchain:** GCC, Clang, MSVC, CMake, cross-platform development
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
 - **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Shadcn
 - **Backend:** Node.js, NestJS
 - **Testing:** Custom test frameworks, stress testing, automated validation
 
-### Databases & Tools
+**Databases & Tools**
 
 - **Databases:** PostgreSQL, Supabase, PLpgSQL
 - **Database Security:** Row Level Security (RLS), JWT authentication, data
@@ -281,7 +272,7 @@ algorithmic mastery, and full-stack development skills.
 - **DevOps:** CI/CD pipelines, automated testing, deployment automation
 - **Automation:** PowerShell, Bash, Python scripting, workflow orchestration
 
-### Algorithmic Skills
+**Algorithmic Skills**
 
 - **Advanced:** Dynamic Programming, Graph Algorithms (Dijkstra, Floyd-Warshall,
   MST), Binary Search Variants
@@ -292,7 +283,7 @@ algorithmic mastery, and full-stack development skills.
 - **Data Structures:** Custom implementations of complex data structures,
   memory-efficient designs
 
-## Key Achievements
+### Key Achievements
 
 - **Production Deployment:** Successfully deployed booking platform with positive
   mentor feedback and commercial recognition
@@ -313,7 +304,7 @@ algorithmic mastery, and full-stack development skills.
 - **Performance Optimization:** Expert in writing efficient, cache-friendly C++
   code for competitive programming constraints
 
-## Areas of Expertise
+### Areas of Expertise
 
 - **Full-Stack Development:** End-to-end application development with modern
   technologies
@@ -340,23 +331,23 @@ algorithmic mastery, and full-stack development skills.
 - **Performance Engineering:** Algorithmic complexity analysis, optimization
   techniques, benchmarking
 
-## Professional Development
+### Professional Development
 
-### Current Focus (2025)
+**Current Focus (2025)**
 
 - Building commercial applications with React and TypeScript
 - Advancing competitive programming skills with focus on advanced algorithms
 - Exploring cutting-edge C++ features and performance optimization techniques
 - Developing production-ready software with industry mentorship
 
-### Learning Trajectory
+**Learning Trajectory**
 
 - Continuously expanding knowledge of advanced C++ and template metaprogramming
 - Staying current with React ecosystem and modern development practices
 - Focusing on scalable architecture patterns and clean code principles
 - Deep-diving into systems programming and performance optimization
 
-## Additional Information
+### Additional Information
 
 - **Work Style:** Detail-oriented with strong analytical thinking and systems
   approach
