@@ -184,14 +184,13 @@ high-performance algorithms and systems.
 
 **Repository:** [github.com/jaipkapoor99/Tic-Tac-Toe](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
-- **Technologies:** JavaScript, HTML5, CSS3
+- **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
 - **Features:**
-  - Interactive gameplay with AI opponent
-  - Clean, responsive user interface
-  - Game logic implementation with win condition detection
-  - Mobile-friendly design
-- **Learning Focus:** DOM manipulation, game state management, algorithmic
-  thinking
+  - **Modern Frontend Stack:** Built with a professional-grade frontend setup, emphasizing type safety and a modern UI/UX.
+  - **Interactive Gameplay:** Classic Tic-Tac-Toe logic with clear win/draw detection and a restart function.
+  - **Responsive Design:** A clean, responsive user interface that adapts seamlessly to various screen sizes.
+  - **Modular Codebase:** Game logic is encapsulated in a custom React Hook (`useTicTacToe`) for better separation of concerns and maintainability.
+- **Learning Focus:** DOM manipulation, game state management, and algorithmic thinking in a modern React environment.
 
 ### Competitive Programming Achievements
 
