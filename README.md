@@ -363,4 +363,4 @@ algorithmic mastery, and full-stack development skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
-### Last Updated: 2025-08-28T13:51:16+05:30
+### Last Updated: August 28, 2025
