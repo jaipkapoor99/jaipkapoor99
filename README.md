@@ -61,9 +61,11 @@ Level Security to responsive UI development.
 The methodical, performance-oriented mindset required for such a project is
 rooted in my extensive competitive programming background. While I have deep
 expertise in modern C++, I see it as the foundation that enables me to excel
-across the entire stack. This is also reflected in my Universal C++20
-Competitive Programming Template, a project that highlights my skills in systems
-thinking and automation.
+across the entire stack. This versatility is reflected in other projects, from
+my Universal C++20 Competitive Programming Template, which highlights my skills
+in systems thinking and automation, to my **Interactive Tic-Tac-Toe Game**,
+where I applied a modern React and TypeScript stack to a classic problem,
+focusing on a clean UI and maintainable code.
 
 I am constantly learning and evolving, and I am excited by opportunities to
 contribute to innovative projects where I can leverage my unique blend of
