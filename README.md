@@ -49,37 +49,26 @@ algorithmic problem-solving and practical application development. My journey in
 technology is driven by an insatiable curiosity to understand complex systems
 and a desire to build solutions that make a meaningful impact.
 
-My competitive programming background has instilled in me a deep appreciation
-for efficient algorithms, optimal data structures, and modern C++ language
-features. Through solving 757+ algorithmic challenges and developing
-sophisticated competitive programming infrastructure, I've mastered advanced
-concepts including template metaprogramming, SFINAE, variadic templates, and
-C++20 features like concepts and ranges.
+My recent work on **Bookify**, a production-ready event booking platform, best
+exemplifies my commitment to this philosophy. I architected and built this
+full-stack application from the ground up using React, TypeScript, and Supabase,
+focusing on creating a secure, scalable, and user-centric experience. This
+project, which resulted in a commercial opportunity, demonstrates my ability to
+translate complex requirements into tangible, high-quality software and
+showcases my expertise in modern web technologies—from database design with Row
+Level Security to responsive UI development.
 
-What sets me apart is my. I'm implementing segment
-trees with lazy propagation, architecting cross-platform build systems, or
-developing full-stack applications, I approach each challenge with the same
-methodical problem-solving approach that has served me well in competitive
-programming.
+The methodical, performance-oriented mindset required for such a project is
+rooted in my extensive competitive programming background. While I have deep
+expertise in modern C++, I see it as the foundation that enables me to excel
+across the entire stack. This is also reflected in my Universal C++20
+Competitive Programming Template, a project that highlights my skills in systems
+thinking and automation.
 
-My [Universal C++20 Competitive Programming Template](https://github.com/jaipkapoor99/CP-Template)
-exemplifies this philosophy—a production-grade system featuring modular
-architecture, automated testing frameworks, cross-platform script automation,
-and comprehensive algorithm libraries. This project demonstrates not just coding
-ability, but systems thinking, devops integration, and software engineering
-best practices.
-
-I'm particularly drawn to projects that challenge me to think creatively about
-system design, algorithm optimization, and technical implementation. My recent
-work on the booking platform project, which led to a commercial opportunity,
-exemplifies my commitment to delivering production-quality software that not
-only meets technical requirements but also provides genuine value to users.
-
-I'm constantly learning and evolving as a developer, staying current with
-modern C++ standards while deepening my understanding of fundamental computer
-science principles. I'm excited about opportunities to contribute to innovative
-projects where I can leverage my unique combination of advanced C++ expertise,
-algorithmic mastery, and full-stack development skills.
+I am constantly learning and evolving, and I am excited by opportunities to
+contribute to innovative projects where I can leverage my unique blend of
+full-stack development expertise, grounded in a deep understanding of
+high-performance algorithms and systems.
 
 ### Education
 
@@ -114,7 +103,7 @@ algorithmic mastery, and full-stack development skills.
 
 ### Projects Portfolio
 
-#### Bookify - Event Booking Platform (2025) - Production Ready
+#### **Bookify** - Event Booking Platform (2025) - Production Ready
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
 
@@ -155,7 +144,7 @@ algorithmic mastery, and full-stack development skills.
 - **Outcome:** Led to commercial opportunity and mentor validation for
   enterprise-grade code quality
 
-#### Universal C++20 Competitive Programming Template - Production Grade
+#### **Universal C++20 Competitive Programming Template** - Production Grade
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
 
@@ -189,7 +178,7 @@ algorithmic mastery, and full-stack development skills.
 - **Innovation:** AI-assisted development approach ensuring modern C++ best
   practices
 
-#### Interactive Tic-Tac-Toe Game
+#### **Interactive Tic-Tac-Toe Game**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
