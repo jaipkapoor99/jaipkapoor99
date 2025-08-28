@@ -109,8 +109,6 @@ high-performance algorithms and systems.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
 
-**Repository:** [github.com/jaipkapoor99/bookify](https://github.com/jaipkapoor99/bookify)
-
 - **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL,
   PostgreSQL
 - **Status:** Production-ready with CI/CD pipeline (87+ commits)
@@ -150,8 +148,6 @@ high-performance algorithms and systems.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
 
-**Repository:** [github.com/jaipkapoor99/CP-Template](https://github.com/jaipkapoor99/CP-Template)
-
 - **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform Development
 - **Status:** Complete production system with 48+ commits
 - **Technical Achievements:**
@@ -183,8 +179,6 @@ high-performance algorithms and systems.
 #### **Interactive Tic-Tac-Toe Game**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
-
-**Repository:** [github.com/jaipkapoor99/Tic-Tac-Toe](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
 - **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
 - **Features:**
