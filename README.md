@@ -31,7 +31,7 @@
 
 ![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaipkapoor99&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true)
 
 ### Professional Summary
 
