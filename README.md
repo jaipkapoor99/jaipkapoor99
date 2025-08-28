@@ -56,8 +56,7 @@ sophisticated competitive programming infrastructure, I've mastered advanced
 concepts including template metaprogramming, SFINAE, variadic templates, and
 C++20 features like concepts and ranges.
 
-What sets me apart is my ability to bridge the gap between theoretical computer
-science and practical software engineering. Whether I'm implementing segment
+What sets me apart is my. I'm implementing segment
 trees with lazy propagation, architecting cross-platform build systems, or
 developing full-stack applications, I approach each challenge with the same
 methodical problem-solving approach that has served me well in competitive
@@ -280,7 +279,7 @@ algorithmic mastery, and full-stack development skills.
   Z-algorithm), Number Theory
 - **Specialized:** Heavy-Light Decomposition, Mo's Algorithm, Matrix
   Exponentiation, Convex Hull
-- **Data Structures:** Custom implementations of complex data structures,
+- **Data Structures:** Custom implementations of complex data-structures,
   memory-efficient designs
 
 ### Key Achievements
@@ -364,4 +363,4 @@ algorithmic mastery, and full-stack development skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
-### Last Updated: June 12, 2025
+### Last Updated: 2025-08-28T13:51:16+05:30
