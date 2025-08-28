@@ -62,7 +62,7 @@ The methodical, performance-oriented mindset required for such a project is
 rooted in my extensive competitive programming background. While I have deep
 expertise in modern C++, I see it as the foundation that enables me to excel
 across the entire stack. This versatility is reflected in other projects, from
-my Universal C++20 Competitive Programming Template, which highlights my skills
+my **Universal C++20 Competitive Programming Template**, which highlights my skills
 in systems thinking and automation, to my **Interactive Tic-Tac-Toe Game**,
 where I applied a modern React and TypeScript stack to a classic problem,
 focusing on a clean UI and maintainable code.
