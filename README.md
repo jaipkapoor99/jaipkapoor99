@@ -175,6 +175,7 @@ to tackle complex challenges with creativity and efficiency.
 
 - **Codeforces:** Peak Rating: 1374 (Pupil), 757+ problems solved.
 - **LeetCode:** Top 19.62% global ranking, 100% acceptance rate on Hard problems.
+- **Codechef** 3 Stars, Max Rating: 1728
 
 ## Technical Skills
 
