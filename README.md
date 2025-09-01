@@ -171,6 +171,14 @@ to tackle complex challenges with creativity and efficiency.
 - **Learning Focus:** DOM manipulation, game state management, and algorithmic
   thinking in a modern React environment.
 
+### **The Automaton** - AI-Powered Task Automation
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/The-Automaton)
+
+- **Technologies:** Python, AI, Automation
+- **Features:** An AI-driven automation tool.
+- **Learning Focus:** Explored advanced AI concepts and automation techniques.
+
 ## Competitive Programming Achievements
 
 - **Codeforces:** Peak Rating: 1374 (Pupil), 757+ problems solved.
