@@ -172,11 +172,6 @@ to tackle complex challenges with creativity and efficiency.
 
 ## Competitive Programming Achievements
 
-<!-- markdownlint-disable MD013 -->
-[![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
-[![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
-<!-- markdownlint-enable MD013 -->
-
 - **Codeforces:** Peak Rating: 1374 (Pupil), 757+ problems solved.
 - **LeetCode:** Top 19.62% global ranking, 100% acceptance rate on Hard problems.
 
