@@ -40,19 +40,19 @@ This methodology allows me to focus on high-level problem-solving and creative s
     -   **Jules & Perplexity:** For specialized coding tasks, research, and exploring novel solutions.
 -   **Supporting Infrastructure:**
     -   A dedicated cluster of **13 MCP servers** for development, testing, and deployment:
-        -   **Aether:** Primary orchestration and command server.
-        -   **Helios:** High-performance build and CI/CD server.
-        -   **Morpheus:** Manages containerized development environments.
-        -   **Nyx:** Handles security, monitoring, and access control.
-        -   **Oracle:** Dedicated to database management and persistent storage.
-        -   **Phoenix:** Automated testing and quality assurance server.
-        -   **Prometheus:** Manages data pipelines and ETL processes.
-        -   **Quantum:** For experimental **AI** model training and research.
-        -   **Styx:** Secure artifact and package repository.
-        -   **Tesseract:** Handles large-scale data processing and analytics.
-        -   **Titan:** High-availability deployment and production server.
-        -   **Vortex:** Manages internal networking and service discovery.
-        -   **Zephyr:** Load balancing and traffic management server.
+        -   **Docker**
+        -   **Supabase**
+        -   **Github**
+        -   **Context7**
+        -   **Perplexity**
+        -   **Time**
+        -   **Cloudflare**
+        -   **Filesystem**
+        -   **Memory**
+        -   **Zapier**
+        -   **Google Workspace**
+        -   **Sequential Thinking**
+        -   **BrowserMCP**
 
 ### Professional Summary
 
