@@ -1,18 +1,11 @@
-# Jai Kapoor - Software Engineer Resume
-
-- **Author:** Jai Kapoor
-- **Email:** <jaipkapoor99@gmail.com>
-- **Phone:** +91 88980 12968
-- **GitHub:** <https://github.com/jaipkapoor99>
-- **LinkedIn:** <https://www.linkedin.com/in/jaipkapoor/>
-- **Location:** Mumbai, India
-- **Date:** June 12, 2025
-
+---
+title: "Jai Kapoor: AI-Driven Software Engineer"
+date: 2025-09-01
 ---
 
 ## Jai Kapoor
 
-### Software Engineer
+### AI-Driven Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
 [![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
@@ -33,82 +26,58 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true)
 
+### AI-Driven Engineering Philosophy
+
+My approach to software engineering is rooted in an **AI-first mindset**. I believe that modern development is most effective when human expertise is augmented by a powerful, integrated AI toolchain. This philosophy is not about replacing fundamental skills but amplifying them. By leveraging AI for everything from architectural brainstorming and code generation to advanced debugging and workflow automation, I can build more robust, sophisticated, and production-ready systems in a fraction of the time.
+
+This methodology allows me to focus on high-level problem-solving and creative solutions, while AI handles the routine, boilerplate, and often time-consuming aspects of development. The result is a hyper-efficient workflow that produces high-quality, maintainable, and innovative software.
+
+### AI Toolchain & Infrastructure
+
+-   **Core AI Assistants:**
+    -   **Gemini & Claude:** For advanced reasoning, architectural design, and complex code generation.
+    -   **Copilot & Cursor:** For intelligent, real-time code completion and AI-native editing.
+    -   **Jules & Perplexity:** For specialized coding tasks, research, and exploring novel solutions.
+-   **Supporting Infrastructure:**
+    -   A dedicated cluster of **13 MCP servers** for development, testing, and deployment.
+
 ### Professional Summary
 
-**AI-focused Software Engineer** with advanced C++20 expertise and an extensive
-competitive programming background. Demonstrated mastery in algorithmic
-problem-solving and production-ready full-stack development, with a
-specialization in architecting sophisticated systems and automated toolchains
-through heavily leveraged **AI-assisted** workflows. My approach is centered on
-using a powerful **AI toolchain** to enhance productivity, code quality, and
-innovation across the entire development lifecycle.
+**AI-driven Software Engineer** with deep expertise in C++20, competitive programming, and full-stack development. My core competency lies in architecting and implementing sophisticated, production-ready systems by leveraging a powerful, integrated **AI toolchain**. I specialize in creating automated, hyper-efficient workflows that enhance code quality, accelerate development, and drive innovation.
 
 ### Personal Statement
 
-I am a passionate software engineer who thrives at the intersection of advanced
-algorithmic problem-solving, practical application development, and cutting-edge
-**AI-driven** engineering. My journey in technology is driven by an insatiable
-curiosity to understand complex systems and a desire to build solutions that
-make a meaningful impact, augmented by a powerful suite of **AI tools**.
+I am a software engineer who thrives at the intersection of advanced algorithms, full-stack development, and cutting-edge **AI-driven engineering**. My passion lies in building complex, high-impact solutions, and my methodology is defined by a deep integration of AI tools throughout the entire development lifecycle.
 
-My recent work on **Bookify**, a production-ready event booking platform, best
-exemplifies my commitment to this philosophy. I architected and built this
-full-stack application from the ground up using React, TypeScript, and Supabase,
-leveraging **AI assistants** like **Gemini** and **Claude** for architectural
-brainstorming, code generation, and advanced debugging. This project, which
-resulted in a commercial opportunity, demonstrates my ability to translate
-complex requirements into tangible, high-quality software and showcases my
-expertise in modern web technologies—from database design with Row Level
-Security to responsive UI development, all accelerated through an **AI-first**
-workflow.
+My work on **Bookify**, a production-ready event booking platform, is a testament to this philosophy. I architected and built this application from the ground up using React, TypeScript, and Supabase, with **Gemini** and **Claude** as my constant collaborators for architectural design, code generation, and debugging. This project, which led to a commercial opportunity, showcases my ability to deliver high-quality, enterprise-grade software in a hyper-efficient, **AI-first** manner.
 
-The methodical, performance-oriented mindset required for such a project is
-rooted in my extensive competitive programming background. While I have deep
-expertise in modern C++, I see it as the foundation that enables me to excel
-across the entire stack. This versatility is reflected in other projects, from
-my **Universal C++20 Competitive Programming Template**, which highlights my
-skills in systems thinking and automation—a project whose development was
-significantly enhanced by **AI** for exploring novel algorithmic approaches and
-ensuring best practices—to my **Interactive Tic-Tac-Toe Game**, where I applied
-a modern React and TypeScript stack to a classic problem, focusing on a clean
-UI and maintainable code.
+This approach is built on a foundation of strong algorithmic problem-solving, honed through years of competitive programming. My expertise in modern C++ is not just a language skill but a gateway to understanding high-performance systems. This is evident in my **Universal C++20 Competitive Programming Template**, where AI was instrumental in exploring novel algorithmic approaches and ensuring adherence to modern best practices.
 
-I am constantly learning and evolving, and I am excited by opportunities to
-contribute to innovative projects where I can leverage my unique blend of
-full-stack development expertise, grounded in a deep understanding of
-high-performance algorithms and systems, and amplified by my proficiency with a
-state-of-the-art **AI toolchain**.
+I am constantly seeking opportunities to push the boundaries of what's possible with an **AI-augmented workflow**. My unique blend of full-stack expertise, deep algorithmic knowledge, and a state-of-the-art **AI toolchain** allows me to tackle complex challenges with creativity and efficiency.
 
 ### Education
 
 **B.Tech Computer Science** _(July 2018 - April 2022)_
 
-- N.M.I.M.S. University, Mumbai
-- CGPA: 3.11/4.00
-- Relevant Coursework: Data Structures, Algorithms, Database Systems,
-  Software Engineering
+-   N.M.I.M.S. University, Mumbai
+-   CGPA: 3.11/4.00
 
 **Higher Secondary Certificate (HSC)** _(12th Grade 2017)_
 
-- Nirmala Memorial Foundation College
-- Percentage: 70.77%
-- Board: HSC (Higher Secondary Certificate)
+-   Nirmala Memorial Foundation College
+-   Percentage: 70.77%
 
 ### Professional Experience
 
-### Software Engineer - Flexera (Remote)
+**Software Engineer - Flexera (Remote)** _(December 2022 - November 2023)_
 
-#### December 2022 - November 2023
+-   Developed and maintained software solutions in a remote-first environment.
+-   Collaborated with cross-functional teams on enterprise-level applications.
 
-- Developed and maintained software solutions in a remote-first environment
-- Collaborated with cross-functional teams on enterprise-level applications
+**Software Engineer - Lentra (Pune)** _(May 2022 - August 2022)_
 
-### Software Engineer - Lentra (Pune)
-
-#### May 2022 - August 2022
-
-- Contributed to fintech applications and backend systems
-- Gained experience in production software development
+-   Contributed to fintech applications and backend systems.
+-   Gained experience in production software development.
 
 ### Projects Portfolio
 
@@ -116,243 +85,47 @@ state-of-the-art **AI toolchain**.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
 
-- **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL,
-  PostgreSQL
-- **Status:** Production-ready with CI/CD pipeline (87+ commits)
-- **Full-Stack Architecture:**
-  - Designed and implemented comprehensive event booking and ticketing system
-  - Built modular API architecture with clean separation (auth-client,
-    database-client)
-  - Developed responsive, mobile-first UI with shadcn/ui components
-- **Advanced Database Engineering:**
-  - Architected complex relational schema with 6+ normalized tables (Users,
-    Events, Venues, Tickets)
-  - Implemented Row Level Security (RLS) policies for data protection
-  - Created atomic database functions: `book_ticket()` with availability checks,
-    `get_my_bookings()`
-  - Designed efficient many-to-many relationships (Events-Venues) with
-    date-based partitioning
-- **Security & Performance:**
-  - JWT authentication with Google OAuth integration
-  - Intelligent caching system with 5-minute TTL for optimal performance
-  - Type-safe validation throughout frontend and backend
-  - Comprehensive error handling and graceful failure management
-- **DevOps & Quality:**
-  - Integrated CI/CD pipeline for automated testing and deployment
-  - 100% TypeScript coverage with ESLint configuration
-  - Comprehensive test suites using Jest and React Testing Library
-  - Complete documentation suite (API docs, architecture guide, deployment
-    guide)
-- **Key Features:**
-  - Real-time ticket availability tracking
-  - Instant booking history with zero-second load times
-  - Image upload system with Supabase Storage integration
-  - Admin dashboard for event management
-- **Outcome:** Led to commercial opportunity and mentor validation for
-  enterprise-grade code quality
+-   **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL, PostgreSQL
+-   **Full-Stack Architecture:** Comprehensive event booking and ticketing system.
+-   **Advanced Database Engineering:** Complex relational schema with Row Level Security (RLS).
+-   **Security & Performance:** JWT authentication, Google OAuth, and intelligent caching.
+-   **DevOps & Quality:** CI/CD pipeline, 100% TypeScript coverage, and comprehensive testing.
+-   **Outcome:** Led to a commercial opportunity and mentor validation for enterprise-grade code quality.
 
 #### **Universal C++20 Competitive Programming Template** - Production Grade
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
 
-- **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform Development
-- **Status:** Complete production system with 48+ commits
-- **Technical Achievements:**
-  - **Advanced C++20 Features:** Concepts, ranges, SFINAE, variadic templates,
-    template metaprogramming
-  - **Modular Architecture:** Clean separation of utilities, algorithms,
-    debugging, and testing components
-  - **Automated Testing Framework:** Stress testing with brute force comparison,
-    auto-generated test cases
-  - **Cross-Platform Automation:** PowerShell + Bash script wrappers with smart
-    platform detection
-  - **Comprehensive Algorithm Library:** Segment trees, Fenwick trees, graph
-    algorithms, number theory, geometry
-  - **Development Toolchain:** Automated file concatenation, template generation,
-    build system integration
-  - **Quality Assurance:** Component testing, stress testing, input generation,
-    failure analysis
-- **Advanced Features:**
-  - Template-based code generation and modular file management
-  - Automated brute force solution templates for differential testing
-  - Cross-platform build configuration with modern compiler flags
-  - Integration with competitive programming platforms and IDEs
-  - Comprehensive debugging utilities with colored output and assertions
-- **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
-  problems
-- **Innovation:** **AI-assisted** development approach ensuring modern C++ best
-  practices
+-   **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform Development
+-   **Technical Achievements:** Advanced C++20 features, modular architecture, and an automated testing framework.
+-   **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique problems.
+-   **Innovation:** An **AI-assisted** development approach ensuring modern C++ best practices.
 
 #### **Interactive Tic-Tac-Toe Game**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
-- **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
-- **Features:**
-  - **Modern Frontend Stack:** Built with a professional-grade frontend setup, emphasizing type safety and a modern UI/UX.
-  - **Interactive Gameplay:** Classic Tic-Tac-Toe logic with clear win/draw detection and a restart function.
-  - **Responsive Design:** A clean, responsive user interface that adapts seamlessly to various screen sizes.
-  - **Modular Codebase:** Game logic is encapsulated in a custom React Hook (`useTicTacToe`) for better separation of concerns and maintainability.
-- **Learning Focus:** DOM manipulation, game state management, and algorithmic thinking in a modern React environment.
+-   **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
+-   **Features:** Modern frontend stack, interactive gameplay, and a responsive design.
+-   **Learning Focus:** DOM manipulation, game state management, and algorithmic thinking in a modern React environment.
 
 ### Competitive Programming Achievements
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
 
-#### Codeforces (Handle: jaipkapoor)
-
-- **Current Rating:** 1166 (Newbie)
-- **Peak Rating:** 1374 (Pupil)
-- **Contests Participated:** 56
-- **Problems Solved:** 757 unique problems
-- **Total Submissions:** 1940
-- **Best Rank:** 1150
-- **Primary Language:** C++20
-
-#### LeetCode (Handle: jaipkapoor99)
-
-- **Problems Solved:** 130 / 3580
-  - **Easy:** 59/880 (77.63% acceptance rate)
-  - **Medium:** 63/1858 (80.77% acceptance rate)
-  - **Hard:** 8/842 (100% acceptance rate)
-- **Contest Rating:** 1628
-- **Global Ranking:** 135,699 (Top 19.62%)
-- **Contests Attended:** 6
+-   **Codeforces:** Peak Rating: 1374 (Pupil), 757+ problems solved.
+-   **LeetCode:** Top 19.62% global ranking, 100% acceptance rate on Hard problems.
 
 ### Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
 
-### AI Toolchain & Infrastructure
-
-- **AI-Powered Development:** I leverage a suite of cutting-edge **AI tools** to accelerate my development workflow, enhance code quality, and solve complex problems more efficiently. My toolkit includes:
-  - **Copilot** & **Cursor:** For intelligent code completion and **AI-native** code editing.
-  - **Gemini CLI** & **Claude:** For advanced reasoning, code generation, and debugging.
-  - **Jules** & **Perplexity:** For specialized coding tasks and research.
-- **Dedicated Infrastructure:** I operate and maintain a cluster of **13 MCP servers** to support my development, testing, and deployment needs.
-
-#### Programming Languages
-
-- **Expert:** C++20, C++17, C++14 (Template Metaprogramming, SFINAE, Variadic
-  Templates, Concepts, Ranges)
-- **Proficient:** TypeScript, JavaScript, Python
-- **Familiar:** HTML5, CSS3
-
-#### C++ Expertise
-
-- **Advanced Features:** Template specialization, CRTP, type traits, constexpr
-  programming, move semantics
-- **Standard Library:** STL containers, algorithms, iterators, smart pointers,
-  threading, chrono
-- **Modern C++:** C++20 concepts, ranges, modules, coroutines, designated
-  initializers
-- **Performance:** Memory optimization, cache-friendly algorithms, SIMD,
-  compiler intrinsics
-- **Toolchain:** GCC, Clang, MSVC, CMake, cross-platform development
-
-#### Frameworks & Libraries
-
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Shadcn
-- **Backend:** Node.js, NestJS
-- **Testing:** Custom test frameworks, stress testing, automated validation
-
-#### Databases & Tools
-
-- **Databases:** PostgreSQL, Supabase, PLpgSQL
-- **Database Security:** Row Level Security (RLS), JWT authentication, data
-  access policies
-- **Database Functions:** Stored procedures, atomic transactions, custom
-  database functions
-- **Database Design:** Complex relational modeling, normalization (3NF),
-  many-to-many relationships
-- **Development Tools:** Git, Vite, Prisma ORM, Cursor, VS Code, Supabase Studio
-- **DevOps:** CI/CD pipelines, automated testing, deployment automation
-- **Automation:** PowerShell, Bash, Python scripting, workflow orchestration
-
-#### Algorithmic Skills
-
-- **Advanced:** Dynamic Programming, Graph Algorithms (Dijkstra, Floyd-Warshall,
-  MST), Binary Search Variants
-- **Expert:** Segment Trees, Fenwick Trees, DSU, String Algorithms (KMP,
-  Z-algorithm), Number Theory
-- **Specialized:** Heavy-Light Decomposition, Mo's Algorithm, Matrix
-  Exponentiation, Convex Hull
-- **Data Structures:** Custom implementations of complex data-structures,
-  memory-efficient designs
-
-### Key Achievements
-
-- **Production Deployment:** Successfully deployed booking platform with positive
-  mentor feedback and commercial recognition
-- **Algorithmic Excellence:** Solved 757+ unique competitive programming
-  problems with advanced C++ implementations
-- **Exceptional Performance:** Maintained 100% acceptance rate on LeetCode Hard
-  problems, 77%+ across all difficulties
-- **Systems Architecture:** Built comprehensive competitive programming
-  infrastructure with cross-platform automation
-- **Commercial Recognition:** Project work led to paid opportunity based on
-  technical merit and code quality
-- **Interactive Development:** Created engaging applications demonstrating strong
-  fundamentals in game logic and UI design
-- **Developer Tooling:** Architected production-grade template system used
-  across 56+ contests with automated testing
-- **Open Source Excellence:** Maintains sophisticated public repositories
-  showcasing advanced C++ and software engineering skills
-- **Performance Optimization:** Expert in writing efficient, cache-friendly C++
-  code for competitive programming constraints
-
-### Areas of Expertise
-
-- **Full-Stack Development:** End-to-end application development with modern
-  technologies
-- **Database Engineering:** Complex schema design, RLS security, stored
-  procedures, performance optimization
-- **Advanced C++ Programming:** Template metaprogramming, modern standards,
-  performance optimization
-- **Algorithm Design & Implementation:** Complex data structures, advanced
-  algorithmic techniques
-- **Systems Programming:** Low-level optimization, memory management,
-  cross-platform development
-- **Software Architecture:** Clean code principles, modular design, automated
-  testing frameworks
-- **DevOps & CI/CD:** Automated pipelines, testing strategies, deployment
-  orchestration
-- **Interactive Application Development:** Game logic, state management, and user
-  interaction design
-- **Developer Infrastructure:** Build systems, automation scripts, development
-  workflow optimization
-- **Code Organization:** Advanced C++ project structure, header-only libraries,
-  template libraries
-- **Security Implementation:** Authentication systems, data protection, secure
-  coding practices
-- **Performance Engineering:** Algorithmic complexity analysis, optimization
-  techniques, benchmarking
-
-### Professional Development
-
-#### Current Focus (2025)
-
-- Building commercial applications with React and TypeScript
-- Advancing competitive programming skills with focus on advanced algorithms
-- Exploring cutting-edge C++ features and performance optimization techniques
-- Developing production-ready software with industry mentorship
-
-#### Learning Trajectory
-
-- Continuously expanding knowledge of advanced C++ and template metaprogramming
-- Staying current with React ecosystem and modern development practices
-- Focusing on scalable architecture patterns and clean code principles
-- Deep-diving into systems programming and performance optimization
-
-### Additional Information
-
-- **Work Style:** Detail-oriented with strong analytical thinking and systems
-  approach
-- **Collaboration:** Experience working with mentors and receiving constructive
-  feedback
-- **Growth Mindset:** Committed to continuous learning and skill development
-- **Availability:** Open to full-time software engineering opportunities
+-   **Programming Languages:** C++20 (Expert), TypeScript, JavaScript, Python
+-   **C++ Expertise:** Advanced template metaprogramming, modern C++20 features, and performance optimization.
+-   **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind CSS, Shadcn
+-   **Databases & Tools:** PostgreSQL, Supabase, PLpgSQL, RLS, JWT, Git, Vite, Prisma
+-   **Algorithmic Skills:** Advanced data structures and algorithms (Segment Trees, Fenwick Trees, Graph Algorithms).
 
 ### Let's Connect
 
@@ -360,6 +133,5 @@ state-of-the-art **AI toolchain**.
 [![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=for-the-badge&label=Profile+Views)
-
-### Last Updated: August 28, 2025
+---
+*Last Updated: September 1, 2025*
