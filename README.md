@@ -35,30 +35,31 @@
 
 ### Professional Summary
 
-Software Engineer with advanced C++20 expertise and extensive competitive
-programming background. Demonstrated mastery in algorithmic problem-solving with
-757+ problems solved across platforms, combined with production-ready full-stack
-development experience. Expert in modern C++ features, template metaprogramming,
-and cross-platform development with proven ability to architect sophisticated
-systems and automated toolchains, heavily leveraging AI-assisted workflows.
+**AI-focused Software Engineer** with advanced C++20 expertise and an extensive
+competitive programming background. Demonstrated mastery in algorithmic
+problem-solving and production-ready full-stack development, with a
+specialization in architecting sophisticated systems and automated toolchains
+through heavily leveraged **AI-assisted** workflows. My approach is centered on
+using a powerful **AI toolchain** to enhance productivity, code quality, and
+innovation across the entire development lifecycle.
 
 ### Personal Statement
 
 I am a passionate software engineer who thrives at the intersection of advanced
 algorithmic problem-solving, practical application development, and cutting-edge
-AI-driven engineering. My journey in technology is driven by an insatiable
+**AI-driven** engineering. My journey in technology is driven by an insatiable
 curiosity to understand complex systems and a desire to build solutions that
-make a meaningful impact, augmented by a powerful suite of AI tools.
+make a meaningful impact, augmented by a powerful suite of **AI tools**.
 
 My recent work on **Bookify**, a production-ready event booking platform, best
 exemplifies my commitment to this philosophy. I architected and built this
 full-stack application from the ground up using React, TypeScript, and Supabase,
-leveraging AI assistants like Gemini and Claude for architectural
+leveraging **AI assistants** like **Gemini** and **Claude** for architectural
 brainstorming, code generation, and advanced debugging. This project, which
 resulted in a commercial opportunity, demonstrates my ability to translate
 complex requirements into tangible, high-quality software and showcases my
 expertise in modern web technologies—from database design with Row Level
-Security to responsive UI development, all accelerated through an AI-first
+Security to responsive UI development, all accelerated through an **AI-first**
 workflow.
 
 The methodical, performance-oriented mindset required for such a project is
@@ -67,7 +68,7 @@ expertise in modern C++, I see it as the foundation that enables me to excel
 across the entire stack. This versatility is reflected in other projects, from
 my **Universal C++20 Competitive Programming Template**, which highlights my
 skills in systems thinking and automation—a project whose development was
-significantly enhanced by AI for exploring novel algorithmic approaches and
+significantly enhanced by **AI** for exploring novel algorithmic approaches and
 ensuring best practices—to my **Interactive Tic-Tac-Toe Game**, where I applied
 a modern React and TypeScript stack to a classic problem, focusing on a clean
 UI and maintainable code.
@@ -76,7 +77,7 @@ I am constantly learning and evolving, and I am excited by opportunities to
 contribute to innovative projects where I can leverage my unique blend of
 full-stack development expertise, grounded in a deep understanding of
 high-performance algorithms and systems, and amplified by my proficiency with a
-state-of-the-art AI toolchain.
+state-of-the-art **AI toolchain**.
 
 ### Education
 
@@ -179,7 +180,7 @@ state-of-the-art AI toolchain.
   - Comprehensive debugging utilities with colored output and assertions
 - **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
   problems
-- **Innovation:** AI-assisted development approach ensuring modern C++ best
+- **Innovation:** **AI-assisted** development approach ensuring modern C++ best
   practices
 
 #### **Interactive Tic-Tac-Toe Game**
@@ -225,10 +226,10 @@ state-of-the-art AI toolchain.
 
 ### AI Toolchain & Infrastructure
 
-- **AI-Powered Development:** I leverage a suite of cutting-edge AI tools to accelerate my development workflow, enhance code quality, and solve complex problems more efficiently. My toolkit includes:
-  - **Copilot & Cursor:** For intelligent code completion and AI-native code editing.
-  - **Gemini CLI & Claude:** For advanced reasoning, code generation, and debugging.
-  - **Jules & Perplexity:** For specialized coding tasks and research.
+- **AI-Powered Development:** I leverage a suite of cutting-edge **AI tools** to accelerate my development workflow, enhance code quality, and solve complex problems more efficiently. My toolkit includes:
+  - **Copilot** & **Cursor:** For intelligent code completion and **AI-native** code editing.
+  - **Gemini CLI** & **Claude:** For advanced reasoning, code generation, and debugging.
+  - **Jules** & **Perplexity:** For specialized coding tasks and research.
 - **Dedicated Infrastructure:** I operate and maintain a cluster of **13 MCP servers** to support my development, testing, and deployment needs.
 
 #### Programming Languages
