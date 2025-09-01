@@ -1,8 +1,3 @@
----
-title: "Jai Kapoor: AI-Driven Software Engineer"
-date: 2025-09-01
----
-
 ## Jai Kapoor
 
 ### **AI**-Driven Software Engineer
@@ -15,7 +10,7 @@ date: 2025-09-01
 
 [![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor99/)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Mumbai,+Maharashtra,+India)
 
 - **Born:** 28 July, 1999
