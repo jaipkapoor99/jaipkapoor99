@@ -45,32 +45,38 @@ systems and automated toolchains, heavily leveraging AI-assisted workflows.
 ### Personal Statement
 
 I am a passionate software engineer who thrives at the intersection of advanced
-algorithmic problem-solving and practical application development. My journey in
-technology is driven by an insatiable curiosity to understand complex systems
-and a desire to build solutions that make a meaningful impact.
+algorithmic problem-solving, practical application development, and cutting-edge
+AI-driven engineering. My journey in technology is driven by an insatiable
+curiosity to understand complex systems and a desire to build solutions that
+make a meaningful impact, augmented by a powerful suite of AI tools.
 
 My recent work on **Bookify**, a production-ready event booking platform, best
 exemplifies my commitment to this philosophy. I architected and built this
 full-stack application from the ground up using React, TypeScript, and Supabase,
-focusing on creating a secure, scalable, and user-centric experience. This
-project, which resulted in a commercial opportunity, demonstrates my ability to
-translate complex requirements into tangible, high-quality software and
-showcases my expertise in modern web technologies—from database design with Row
-Level Security to responsive UI development.
+leveraging AI assistants like Gemini and Claude for architectural
+brainstorming, code generation, and advanced debugging. This project, which
+resulted in a commercial opportunity, demonstrates my ability to translate
+complex requirements into tangible, high-quality software and showcases my
+expertise in modern web technologies—from database design with Row Level
+Security to responsive UI development, all accelerated through an AI-first
+workflow.
 
 The methodical, performance-oriented mindset required for such a project is
 rooted in my extensive competitive programming background. While I have deep
 expertise in modern C++, I see it as the foundation that enables me to excel
 across the entire stack. This versatility is reflected in other projects, from
-my **Universal C++20 Competitive Programming Template**, which highlights my skills
-in systems thinking and automation, to my **Interactive Tic-Tac-Toe Game**,
-where I applied a modern React and TypeScript stack to a classic problem,
-focusing on a clean UI and maintainable code.
+my **Universal C++20 Competitive Programming Template**, which highlights my
+skills in systems thinking and automation—a project whose development was
+significantly enhanced by AI for exploring novel algorithmic approaches and
+ensuring best practices—to my **Interactive Tic-Tac-Toe Game**, where I applied
+a modern React and TypeScript stack to a classic problem, focusing on a clean
+UI and maintainable code.
 
 I am constantly learning and evolving, and I am excited by opportunities to
 contribute to innovative projects where I can leverage my unique blend of
 full-stack development expertise, grounded in a deep understanding of
-high-performance algorithms and systems.
+high-performance algorithms and systems, and amplified by my proficiency with a
+state-of-the-art AI toolchain.
 
 ### Education
 
