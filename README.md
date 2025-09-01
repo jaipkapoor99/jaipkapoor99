@@ -194,4 +194,4 @@ and performance optimization.
 - **Algorithmic Skills:** Advanced data structures and algorithms
 (Segment Trees, Fenwick Trees, Graph Algorithms).
 
-Last Updated: September 1, 2025
+## _Last Updated: September 1, 2025_
