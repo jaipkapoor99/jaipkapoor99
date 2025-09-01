@@ -5,7 +5,7 @@ date: 2025-09-01
 
 ## Jai Kapoor
 
-### AI-Driven Software Engineer
+### **AI**-Driven Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
 [![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
@@ -26,32 +26,45 @@ date: 2025-09-01
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true)
 
-### AI-Driven Engineering Philosophy
+### **AI**-Driven Engineering Philosophy
 
-My approach to software engineering is rooted in an **AI-first mindset**. I believe that modern development is most effective when human expertise is augmented by a powerful, integrated AI toolchain. This philosophy is not about replacing fundamental skills but amplifying them. By leveraging AI for everything from architectural brainstorming and code generation to advanced debugging and workflow automation, I can build more robust, sophisticated, and production-ready systems in a fraction of the time.
+My approach to software engineering is rooted in an **AI-first mindset**. I believe that modern development is most effective when human expertise is augmented by a powerful, integrated **AI toolchain**. This philosophy is not about replacing fundamental skills but amplifying them. By leveraging **AI** for everything from architectural brainstorming and code generation to advanced debugging and workflow automation, I can build more robust, sophisticated, and production-ready systems in a fraction of the time.
 
-This methodology allows me to focus on high-level problem-solving and creative solutions, while AI handles the routine, boilerplate, and often time-consuming aspects of development. The result is a hyper-efficient workflow that produces high-quality, maintainable, and innovative software.
+This methodology allows me to focus on high-level problem-solving and creative solutions, while **AI** handles the routine, boilerplate, and often time-consuming aspects of development. The result is a hyper-efficient workflow that produces high-quality, maintainable, and innovative software.
 
-### AI Toolchain & Infrastructure
+### **AI** Toolchain & Infrastructure
 
--   **Core AI Assistants:**
+-   **Core **AI** Assistants:**
     -   **Gemini & Claude:** For advanced reasoning, architectural design, and complex code generation.
-    -   **Copilot & Cursor:** For intelligent, real-time code completion and AI-native editing.
+    -   **Copilot & Cursor:** For intelligent, real-time code completion and **AI-native** editing.
     -   **Jules & Perplexity:** For specialized coding tasks, research, and exploring novel solutions.
 -   **Supporting Infrastructure:**
-    -   A dedicated cluster of **13 MCP servers** for development, testing, and deployment.
+    -   A dedicated cluster of **13 MCP servers** for development, testing, and deployment:
+        -   **Aether:** Primary orchestration and command server.
+        -   **Helios:** High-performance build and CI/CD server.
+        -   **Morpheus:** Manages containerized development environments.
+        -   **Nyx:** Handles security, monitoring, and access control.
+        -   **Oracle:** Dedicated to database management and persistent storage.
+        -   **Phoenix:** Automated testing and quality assurance server.
+        -   **Prometheus:** Manages data pipelines and ETL processes.
+        -   **Quantum:** For experimental **AI** model training and research.
+        -   **Styx:** Secure artifact and package repository.
+        -   **Tesseract:** Handles large-scale data processing and analytics.
+        -   **Titan:** High-availability deployment and production server.
+        -   **Vortex:** Manages internal networking and service discovery.
+        -   **Zephyr:** Load balancing and traffic management server.
 
 ### Professional Summary
 
-**AI-driven Software Engineer** with deep expertise in C++20, competitive programming, and full-stack development. My core competency lies in architecting and implementing sophisticated, production-ready systems by leveraging a powerful, integrated **AI toolchain**. I specialize in creating automated, hyper-efficient workflows that enhance code quality, accelerate development, and drive innovation.
+**AI-driven** Software Engineer with deep expertise in C++20, competitive programming, and full-stack development. My core competency lies in architecting and implementing sophisticated, production-ready systems by leveraging a powerful, integrated **AI toolchain**. I specialize in creating automated, hyper-efficient workflows that enhance code quality, accelerate development, and drive innovation.
 
 ### Personal Statement
 
-I am a software engineer who thrives at the intersection of advanced algorithms, full-stack development, and cutting-edge **AI-driven engineering**. My passion lies in building complex, high-impact solutions, and my methodology is defined by a deep integration of AI tools throughout the entire development lifecycle.
+I am a software engineer who thrives at the intersection of advanced algorithms, full-stack development, and cutting-edge **AI-driven engineering**. My passion lies in building complex, high-impact solutions, and my methodology is defined by a deep integration of **AI** tools throughout the entire development lifecycle.
 
 My work on **Bookify**, a production-ready event booking platform, is a testament to this philosophy. I architected and built this application from the ground up using React, TypeScript, and Supabase, with **Gemini** and **Claude** as my constant collaborators for architectural design, code generation, and debugging. This project, which led to a commercial opportunity, showcases my ability to deliver high-quality, enterprise-grade software in a hyper-efficient, **AI-first** manner.
 
-This same AI-augmented approach is evident in my other projects, such as the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend stack—React, TypeScript, and Tailwind CSS—to a classic problem, focusing on a clean, responsive UI and a modular codebase. The game's logic is encapsulated in a custom React Hook (`useTicTacToe`), demonstrating my commitment to writing maintainable, well-structured code, a process significantly streamlined by my AI toolchain.
+This same **AI-augmented** approach is evident in my other projects, such as the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend stack—React, TypeScript, and Tailwind CSS—to a classic problem, focusing on a clean, responsive UI and a modular codebase. The game's logic is encapsulated in a custom React Hook (`useTicTacToe`), demonstrating my commitment to writing maintainable, well-structured code, a process significantly streamlined by my **AI toolchain**.
 
 I am constantly seeking opportunities to push the boundaries of what's possible with an **AI-augmented workflow**. My unique blend of full-stack expertise, deep algorithmic knowledge, and a state-of-the-art **AI toolchain** allows me to tackle complex challenges with creativity and efficiency.
 
