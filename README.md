@@ -40,7 +40,7 @@ programming background. Demonstrated mastery in algorithmic problem-solving with
 757+ problems solved across platforms, combined with production-ready full-stack
 development experience. Expert in modern C++ features, template metaprogramming,
 and cross-platform development with proven ability to architect sophisticated
-systems and automated toolchains.
+systems and automated toolchains, heavily leveraging AI-assisted workflows.
 
 ### Personal Statement
 
@@ -216,6 +216,14 @@ high-performance algorithms and systems.
 ### Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
+
+### AI Toolchain & Infrastructure
+
+- **AI-Powered Development:** I leverage a suite of cutting-edge AI tools to accelerate my development workflow, enhance code quality, and solve complex problems more efficiently. My toolkit includes:
+  - **Copilot & Cursor:** For intelligent code completion and AI-native code editing.
+  - **Gemini CLI & Claude:** For advanced reasoning, code generation, and debugging.
+  - **Jules & Perplexity:** For specialized coding tasks and research.
+- **Dedicated Infrastructure:** I operate and maintain a cluster of **13 MCP servers** to support my development, testing, and deployment needs.
 
 #### Programming Languages
 
