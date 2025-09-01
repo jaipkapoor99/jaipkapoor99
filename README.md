@@ -22,9 +22,9 @@
 
 ## GitHub Statistics
 
-![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true)
+![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_bust=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true&cache_bust=0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true&cache_bust=0)
 
 ## **AI**-Driven Engineering Philosophy
 
@@ -134,7 +134,7 @@ to tackle complex challenges with creativity and efficiency.
 
 ### **Bookify** - Event Booking Platform (2025) - Production Ready
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/bookify)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/bookify)
 
 - **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL,
   PostgreSQL
@@ -150,7 +150,7 @@ to tackle complex challenges with creativity and efficiency.
 
 ### **Universal C++20 Competitive Programming Template** - Production Grade
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/CP-Template)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/CP-Template)
 
 - **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform
   Development
@@ -163,7 +163,7 @@ to tackle complex challenges with creativity and efficiency.
 
 ### **Interactive Tic-Tac-Toe Game**
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
 
 - **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
 - **Features:** Modern frontend stack, interactive gameplay, and a responsive
@@ -173,7 +173,7 @@ to tackle complex challenges with creativity and efficiency.
 
 ### **The Automaton** - AI-Powered Task Automation
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true)](https://github.com/jaipkapoor99/The-Automaton)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/The-Automaton)
 
 - **Technologies:** Python, AI, Automation
 - **Features:** An AI-driven automation tool.
