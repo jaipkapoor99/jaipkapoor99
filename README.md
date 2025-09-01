@@ -10,8 +10,12 @@
 
 [![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor99/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor99-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor99/)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Mumbai,+Maharashtra,+India)
+<!-- markdownlint-disable MD013 -->
+[![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
+<!-- markdownlint-enable MD013 -->
 
 - **Born:** 28 July, 1999
 
