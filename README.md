@@ -40,19 +40,19 @@ This methodology allows me to focus on high-level problem-solving and creative s
     -   **Jules & Perplexity:** For specialized coding tasks, research, and exploring novel solutions.
 -   **Supporting Infrastructure:**
     -   A dedicated cluster of **13 MCP servers** for development, testing, and deployment:
-        -   **Docker**
-        -   **Supabase**
-        -   **Github**
-        -   **Context7**
-        -   **Perplexity**
-        -   **Time**
-        -   **Cloudflare**
-        -   **Filesystem**
-        -   **Memory**
-        -   **Zapier**
-        -   **Google Workspace**
-        -   **Sequential Thinking**
-        -   **BrowserMCP**
+        -   **Docker:** Manages containerized development environments.
+        -   **Supabase:** Handles database management and persistent storage.
+        -   **Github:** Primary orchestration and command server.
+        -   **Context7:** For experimental AI model training and research.
+        -   **Perplexity:** Manages data pipelines and ETL processes.
+        -   **Time:** Secure artifact and package repository.
+        -   **Cloudflare:** Handles security, monitoring, and access control.
+        -   **Filesystem:** Automated testing and quality assurance server.
+        -   **Memory:** High-performance build and CI/CD server.
+        -   **Zapier:** Handles large-scale data processing and analytics.
+        -   **Google Workspace:** High-availability deployment and production server.
+        -   **Sequential Thinking:** Manages internal networking and service discovery.
+        -   **BrowserMCP:** Load balancing and traffic management server.
 
 ### Professional Summary
 
