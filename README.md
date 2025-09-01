@@ -15,6 +15,7 @@
 <!-- markdownlint-disable MD013 -->
 [![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-jaipkapoor99-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaipkapoor99)
 <!-- markdownlint-enable MD013 -->
 
 - **Born:** 28 July, 1999
