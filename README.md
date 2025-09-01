@@ -51,7 +51,7 @@ I am a software engineer who thrives at the intersection of advanced algorithms,
 
 My work on **Bookify**, a production-ready event booking platform, is a testament to this philosophy. I architected and built this application from the ground up using React, TypeScript, and Supabase, with **Gemini** and **Claude** as my constant collaborators for architectural design, code generation, and debugging. This project, which led to a commercial opportunity, showcases my ability to deliver high-quality, enterprise-grade software in a hyper-efficient, **AI-first** manner.
 
-This approach is built on a foundation of strong algorithmic problem-solving, honed through years of competitive programming. My expertise in modern C++ is not just a language skill but a gateway to understanding high-performance systems. This is evident in my **Universal C++20 Competitive Programming Template**, where AI was instrumental in exploring novel algorithmic approaches and ensuring adherence to modern best practices.
+This same AI-augmented approach is evident in my other projects, such as the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend stack—React, TypeScript, and Tailwind CSS—to a classic problem, focusing on a clean, responsive UI and a modular codebase. The game's logic is encapsulated in a custom React Hook (`useTicTacToe`), demonstrating my commitment to writing maintainable, well-structured code, a process significantly streamlined by my AI toolchain.
 
 I am constantly seeking opportunities to push the boundaries of what's possible with an **AI-augmented workflow**. My unique blend of full-stack expertise, deep algorithmic knowledge, and a state-of-the-art **AI toolchain** allows me to tackle complex challenges with creativity and efficiency.
 
