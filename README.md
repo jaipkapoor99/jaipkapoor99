@@ -97,8 +97,8 @@ testament to this philosophy. I designed and built this application from
 the ground up using React, TypeScript, and Supabase, with **Gemini** and
 **Claude** as my constant collaborators for system design, code
 generation, and debugging. This project, which led to a commercial opportunity,
-showcases my ability to deliver high-quality software suitable for businesses in a
-highly efficient, **AI-first** manner.
+showcases my ability to deliver high-quality software suitable for businesses in
+a highly efficient, **AI-first** manner.
 
 This same **AI-augmented** approach is evident in my other projects, such as
 the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend
