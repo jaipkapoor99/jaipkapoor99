@@ -46,27 +46,35 @@ workflow that produces high-quality, maintainable, and innovative software.
 - **Core **AI** Assistants:**
   - **Gemini & Claude:** For advanced reasoning, architectural design, and
     complex code generation.
-  - **Copilot & Cursor:** For intelligent, real-time code completion and
+  - **Copilot, Cursor, and Gemini Code Assist:** For intelligent, real-time code
+    completion and
     **AI-native** editing.
-  - **Jules & Perplexity:** For specialized coding tasks, research, and
+  - **Jules:** For asynchronous coding tasks and overnight jobs.
+  - **Perplexity:** For specialized coding tasks, research, and
     exploring novel solutions.
 - **Supporting Infrastructure:**
-  - A dedicated cluster of **13 MCP servers** for development, testing, and
+  - A dedicated cluster of **12 MCP servers** for development, testing, and
     deployment:
-    - **Docker:** Manages containerized development environments.
-    - **Supabase:** Handles database management and persistent storage.
-    - **Github:** Primary orchestration and command server.
-    - **Context7:** For experimental AI model training and research.
-    - **Perplexity:** Manages data pipelines and ETL processes.
-    - **Time:** Secure artifact and package repository.
-    - **Cloudflare:** Handles security, monitoring, and access control.
-    - **Filesystem:** Automated testing and quality assurance server.
-    - **Memory:** High-performance build and CI/CD server.
-    - **Zapier:** Handles large-scale data processing and analytics.
-    - **Google Workspace:** High-availability deployment and production server.
-    - **Sequential Thinking:** Manages internal networking and service
-      discovery.
-    - **BrowserMCP:** Load balancing and traffic management server.
+    - **Docker:** An open-source platform to build, package, and run applications
+      in lightweight, portable containers.
+    - **Supabase:** An open-source Backend-as-a-Service platform with a managed
+      PostgreSQL database, authentication, and serverless functions.
+    - **Github:** A web-based platform for hosting and managing Git repositories,
+      enabling collaborative code development and version control.
+    - **Context7:** Provide up to date documentation of libraries and frameworks.
+    - **Perplexity:** A conversational search engine that provides direct,
+      context-aware answers with source citations.
+    - **Time:** Can get the time.
+    - **Cloudflare:** A global cloud platform for CDN, cybersecurity,
+      DDoS mitigation, and internet security services.
+    - **Filesystem:** Can Read and Write files in my system.
+    - **Memory:** Can build knowledge graphs regarding the user or codebase.
+    - **Zapier:** An automation platform that connects and integrates web
+      applications to automate workflows.
+    - **Google Workspace:** A cloud-based suite of productivity and collaboration
+      tools including Gmail, Drive, Docs, Sheets, and Slides.
+    - **Sequential Thinking:** A tool for dynamic and reflective problem-solving
+      through a structured thinking process.
 
 ## Professional Summary
 
@@ -148,18 +156,13 @@ to tackle complex challenges with creativity and efficiency.
 - **Outcome:** Led to a commercial opportunity and mentor validation for
   enterprise-grade code quality.
 
-### **Universal C++20 Competitive Programming Template** - Production Grade
+### **The Automaton** - AI-Powered Task Automation
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/CP-Template)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/The-Automaton)
 
-- **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform
-  Development
-- **Technical Achievements:** Advanced C++20 features, modular architecture, and
-  an automated testing framework.
-- **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
-  problems.
-- **Innovation:** An **AI-assisted** development approach ensuring modern C++
-  best practices.
+- **Technologies:** Python, AI, Automation
+- **Features:** An AI-driven automation tool.
+- **Learning Focus:** Explored advanced AI concepts and automation techniques.
 
 ### **Interactive Tic-Tac-Toe Game**
 
@@ -171,13 +174,18 @@ to tackle complex challenges with creativity and efficiency.
 - **Learning Focus:** DOM manipulation, game state management, and algorithmic
   thinking in a modern React environment.
 
-### **The Automaton** - AI-Powered Task Automation
+### **Universal C++20 Competitive Programming Template**
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/The-Automaton)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/CP-Template)
 
-- **Technologies:** Python, AI, Automation
-- **Features:** An AI-driven automation tool.
-- **Learning Focus:** Explored advanced AI concepts and automation techniques.
+- **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform
+  Development
+- **Technical Achievements:** Advanced C++20 features, modular architecture, and
+  an automated testing framework.
+- **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
+  problems.
+- **Innovation:** An **AI-assisted** development approach ensuring modern C++
+  best practices.
 
 ## Competitive Programming Achievements
 
