@@ -30,15 +30,15 @@
 
 My approach to software engineering is rooted in an **AI-first mindset**. I
 believe that modern development is most effective when human expertise is
-augmented by a powerful, integrated **AI toolchain**. This philosophy is not
+augmented by a powerful, integrated set of **AI tools**. This philosophy is not
 about replacing fundamental skills but amplifying them. By leveraging **AI**
-for everything from architectural brainstorming and code generation to advanced
+for everything from designing a system's structure and code generation to advanced
 debugging and workflow automation, I can build more robust, sophisticated, and
-production-ready systems in a fraction of the time.
+real-world systems in a fraction of the time.
 
 This methodology allows me to focus on high-level problem-solving and creative
 solutions, while **AI** handles the routine, boilerplate, and often
-time-consuming aspects of development. The result is a hyper-efficient
+time-consuming aspects of development. The result is a highly efficient
 workflow that produces high-quality, maintainable, and innovative software.
 
 ## **AI** Toolchain & Infrastructure
@@ -53,7 +53,7 @@ workflow that produces high-quality, maintainable, and innovative software.
   - **Perplexity:** For specialized coding tasks, research, and
     exploring novel solutions.
 - **Supporting Infrastructure:**
-  - A dedicated cluster of **12 MCP servers** for development, testing, and
+  - A dedicated cluster of **12 servers** for development, testing, and
     deployment:
     - **Docker:** An open-source platform to build, package, and run applications
       in lightweight, portable containers.
@@ -80,39 +80,38 @@ workflow that produces high-quality, maintainable, and innovative software.
 
 **AI-driven** Software Engineer with deep expertise in full-stack development and
 modern C++, complemented by a strong background in algorithmic problem-solving.
-My core competency lies in architecting and implementing sophisticated,
-production-ready systems by leveraging a powerful, integrated **AI toolchain**.
-I specialize in creating automated, hyper-efficient workflows that enhance code
-quality, accelerate development, and drive innovation.
+My main area of expertise is designing and building complex, reliable applications
+by leveraging a powerful, integrated set of **AI tools**. I specialize in creating
+automated, highly efficient workflows that enhance code quality, accelerate
+development, and drive innovation.
 
 ## Personal Statement
 
-I am a software engineer who thrives at the intersection of advanced
-algorithms, full-stack development, and cutting-edge **AI-driven engineering**.
-My passion lies in building complex, high-impact solutions, and my methodology
-is defined by a deep integration of **AI** tools throughout the entire
-development lifecycle.
+I am a software engineer who thrives on combining advanced algorithms,
+full-stack development, and modern **AI-driven engineering**. My passion lies
+in building complex, high-impact solutions, and my methodology is defined by a
+deep integration of **AI** tools throughout the entire development lifecycle.
 
-My work on **Bookify**, a production-ready event booking platform, is a
-testament to this philosophy. I architected and built this application from
+My work on **Bookify**, an event booking platform ready for real-world use, is a
+testament to this philosophy. I designed and built this application from
 the ground up using React, TypeScript, and Supabase, with **Gemini** and
-**Claude** as my constant collaborators for architectural design, code
+**Claude** as my constant collaborators for system design, code
 generation, and debugging. This project, which led to a commercial opportunity,
-showcases my ability to deliver high-quality, enterprise-grade software in a
-hyper-efficient, **AI-first** manner.
+showcases my ability to deliver high-quality software suitable for businesses in a
+highly efficient, **AI-first** manner.
 
 This same **AI-augmented** approach is evident in my other projects, such as
 the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend
 stack—React, TypeScript, and Tailwind CSS—to a classic problem, focusing on a
-clean, responsive UI, and a modular codebase. The game's logic is encapsulated
-in a custom React Hook (`useTicTacToe`), demonstrating my commitment to writing
-maintainable, well-structured code, a process significantly streamlined by my
-**AI toolchain**.
+clean, responsive UI, and a modular codebase. The game's logic is neatly
+organized into a reusable component (`useTicTacToe`), demonstrating my
+commitment to writing maintainable, well-structured code, a process
+significantly streamlined by my set of **AI tools**.
 
 I am constantly seeking opportunities to push the boundaries of what's possible
 with an **AI-augmented workflow**. My unique blend of full-stack expertise,
-deep algorithmic knowledge, and a state-of-the-art **AI toolchain** allows me
-to tackle complex challenges with creativity and efficiency.
+deep algorithmic knowledge, and a modern set of **AI tools** allows me to
+tackle complex challenges with creativity and efficiency.
 
 ## Education
 
@@ -146,15 +145,15 @@ to tackle complex challenges with creativity and efficiency.
 
 - **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL,
   PostgreSQL
-- **Full-Stack Architecture:** Comprehensive event booking and ticketing system.
-- **Advanced Database Engineering:** Complex relational schema with Row Level
+- **Full-Stack Application:** Comprehensive event booking and ticketing system.
+- **Advanced Database Design:** Complex relational schema with Row Level
   Security (RLS).
 - **Security & Performance:** JWT authentication, Google OAuth, and intelligent
   caching.
-- **DevOps & Quality:** CI/CD pipeline, 100% TypeScript coverage, and
-  comprehensive testing.
+- **DevOps & Quality:** Automated build and deployment (CI/CD) pipeline, 100%
+  TypeScript coverage, and comprehensive testing.
 - **Outcome:** Led to a commercial opportunity and mentor validation for
-  enterprise-grade code quality.
+  high-quality code suitable for large-scale applications.
 
 ### **The Automaton** - AI-Powered Task Automation
 
@@ -171,8 +170,8 @@ to tackle complex challenges with creativity and efficiency.
 - **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
 - **Features:** Modern frontend stack, interactive gameplay, and a responsive
   design.
-- **Learning Focus:** DOM manipulation, game state management, and algorithmic
-  thinking in a modern React environment.
+- **Learning Focus:** User interface interactions, game state management, and
+  algorithmic thinking in a modern React environment.
 
 ### **Universal C++20 Competitive Programming Template**
 
@@ -180,7 +179,7 @@ to tackle complex challenges with creativity and efficiency.
 
 - **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform
   Development
-- **Technical Achievements:** Advanced C++20 features, modular architecture, and
+- **Technical Achievements:** Advanced C++20 features, modular design, and
   an automated testing framework.
 - **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
   problems.
@@ -201,7 +200,7 @@ to tackle complex challenges with creativity and efficiency.
 
 - **Programming Languages:** C++20 (Expert), TypeScript, JavaScript, Python
 
-- **C++ Expertise:** Advanced template metaprogramming, modern C++20 features,
+- **C++ Expertise:** Advanced C++ template techniques, modern C++20 features,
 and performance optimization.
 
 - **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind CSS, Shadcn
