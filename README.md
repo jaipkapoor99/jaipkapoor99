@@ -78,12 +78,12 @@ workflow that produces high-quality, maintainable, and innovative software.
 
 ## Professional Summary
 
-**AI-driven** Software Engineer with deep expertise in C++20, competitive
-programming, and full-stack development. My core competency lies in
-architecting and implementing sophisticated, production-ready systems by
-leveraging a powerful, integrated **AI toolchain**. I specialize in creating
-automated, hyper-efficient workflows that enhance code quality, accelerate
-development, and drive innovation.
+**AI-driven** Software Engineer with deep expertise in full-stack development and
+modern C++, complemented by a strong background in algorithmic problem-solving.
+My core competency lies in architecting and implementing sophisticated,
+production-ready systems by leveraging a powerful, integrated **AI toolchain**.
+I specialize in creating automated, hyper-efficient workflows that enhance code
+quality, accelerate development, and drive innovation.
 
 ## Personal Statement
 
