@@ -1,6 +1,6 @@
 # Jai Kapoor
 
-## **AI**-Driven Software Engineer
+## AI-Driven Software Engineer at Clarion | Full-Stack Development & C++
 
 [![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
 [![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
@@ -127,7 +127,13 @@ tackle complex challenges with creativity and efficiency.
 
 ## Professional Experience
 
-**Software Engineer - Flexera (Remote)** _(December 2022 - November 2023)_
+**Software Engineer - Clarion (Mumbai)** _(January 2024 - Present)_
+- Architected and documented the complete system design for the Bookify platform using TypeScript, Supabase, and Vercel.
+- Implemented secure authentication with JWT and Row-Level Security (RLS) for multi-tenant data access.
+- Developed core database logic, API endpoints, and edge functions for real-time services.
+- Established production-grade CI/CD workflows and a comprehensive testing strategy.
+
+**Software Engineer - Flexera (Bangalore)** _(December 2022 - November 2023)_
 
 - Developed and maintained software solutions in a remote-first environment.
 - Collaborated with cross-functional teams on enterprise-level applications.
