@@ -1,7 +1,7 @@
 # Jai Kapoor
 
 **Software Engineer @ Clarion** | C++20 • Python • TypeScript • Systems & ML Engineering  
-📍 Mumbai, India • [LinkedIn](https://www.linkedin.com/in/jaipkapoor99/) • [Email](mailto:jaipkapoor99@gmail.com) • [LeetCode](https://leetcode.com/jaipkapoor99/) • [Codeforces](https://codeforces.com/profile/jaipkapoor)
+📍 Mumbai, India • [GitHub](https://github.com/jaipkapoor99) • [LinkedIn](https://www.linkedin.com/in/jaipkapoor99/) • [Email](mailto:jaipkapoor99@gmail.com) • [LeetCode](https://leetcode.com/jaipkapoor99/) • [Codeforces](https://codeforces.com/profile/jaipkapoor)
 
 ---
 
