@@ -1,7 +1,7 @@
 # Jai Kapoor
 
 **Software Engineer @ Clarion** | C++20 • Python • TypeScript • Systems & ML Engineering  
-📍 Mumbai, India • [GitHub](https://github.com/jaipkapoor99) • [LinkedIn](https://www.linkedin.com/in/jaipkapoor99/) • [Email](mailto:jaipkapoor99@gmail.com) • [LeetCode](https://leetcode.com/jaipkapoor99/) • [Codeforces](https://codeforces.com/profile/jaipkapoor)
+📍 Mumbai, India • [GitHub](https://github.com/jaipkapoor99) • [LinkedIn](https://www.linkedin.com/in/jaipkapoor99/) • [Email](mailto:jaipkapoor99@gmail.com) • [Chess.com](https://www.chess.com/member/jaipkapoor99) • [LeetCode](https://leetcode.com/jaipkapoor99/) • [Codeforces](https://codeforces.com/profile/jaipkapoor)
 
 ---
 
@@ -25,6 +25,13 @@
 - **Backend & Cloud:** Node.js, Fastify, Express, Next.js, Docker, Supabase, CI/CD
 - **AI / ML & Systems:** PyTorch, LLM Pre-training / Fine-tuning, Distributed Optimizers (Muon), Data Pipelines
 - **Algorithms:** Advanced Graph Algorithms, Tree Structures (Segment / Fenwick), Peak 1728 CodeChef / 100% Hard acceptance on LeetCode
+
+---
+
+### ♟️ Beyond Code: Chess
+
+- Competitive chess player on **[Chess.com](https://www.chess.com/member/jaipkapoor99)** (Peak Rapid: **1920**, Current: ~**1792**, Peak Blitz: **1700**, Peak Tactics: **1930**).
+- When not writing code, studying chess openings, engine analytics, and contributing back to neural network chess software.
 
 ---
 
