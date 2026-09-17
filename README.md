@@ -1,219 +1,30 @@
 # Jai Kapoor
 
-## AI-Driven Software Engineer at Clarion | Full-Stack Development & C++
+**Software Engineer @ Clarion** | C++20 • Python • TypeScript • Systems & ML Engineering  
+📍 Mumbai, India • [LinkedIn](https://www.linkedin.com/in/jaipkapoor99/) • [Email](mailto:jaipkapoor99@gmail.com) • [LeetCode](https://leetcode.com/jaipkapoor99/) • [Codeforces](https://codeforces.com/profile/jaipkapoor)
 
-[![GitHub followers](https://img.shields.io/github/followers/jaipkapoor99?label=Followers&style=social)](https://github.com/jaipkapoor99)
-[![GitHub stars](https://img.shields.io/github/stars/jaipkapoor99?label=Stars&style=social)](https://github.com/jaipkapoor99)
-[![Profile views](https://komarev.com/ghpvc/?username=jaipkapoor99&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/jaipkapoor99)
+---
 
-## Contact Information
+### ⚡ What I Build
 
-[![Email](https://img.shields.io/badge/Email-jaipkapoor99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaipkapoor99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jaipkapoor99-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaipkapoor99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaipkapoor99-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaipkapoor99/)
-[![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Mumbai,+Maharashtra,+India)
-<!-- markdownlint-disable MD013 -->
-[![Codeforces](https://img.shields.io/badge/Codeforces-jaipkapoor-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaipkapoor)
-[![LeetCode](https://img.shields.io/badge/LeetCode-jaipkapoor99-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaipkapoor99/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-jaipkapoor99-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaipkapoor99)
-<!-- markdownlint-enable MD013 -->
+- **🤖 [Ultron](https://github.com/jaipkapoor99/ultron)** — 113M parameter SOTA LLM pre-trained from scratch on 10B FineWeb-Edu tokens featuring the Muon Optimizer, RoPE, GQA, SwiGLU, and zero-copy streaming.
+- **♟️ [chess-ds](https://github.com/jaipkapoor99/chess-ds)** — Pedagogical chess data science and engine analytics platform.
+- **⚙️ [CP-Template](https://github.com/jaipkapoor99/CP-Template)** — Modular, high-performance C++20 competitive programming framework tested across 750+ algorithmic problems.
+- **🚀 [The-Automaton](https://github.com/jaipkapoor99/The-Automaton)** — AI-driven developer automation toolkit streamlining modern engineering workflows.
+- **🛠️ [Provue-Demo](https://github.com/jaipkapoor99/Provue-Demo)** — Microservices dashboard architecture built with Next.js, Fastify, Express, PostgreSQL, and Docker.
 
-- **Born:** 28 July, 1999
+---
 
-## GitHub Statistics
+### 🛠️ Tech Stack
 
-![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_bust=0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true&cache_bust=0)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaipkapoor99&theme=radical&hide_border=true&cache_bust=0)
+- **Languages:** C++20, Python, TypeScript, JavaScript, SQL (PostgreSQL, PL/pgSQL), Bash
+- **Backend & Cloud:** Node.js, Fastify, Express, Next.js, Docker, Supabase, CI/CD
+- **AI / ML & Systems:** PyTorch, LLM Pre-training / Fine-tuning, Distributed Optimizers (Muon), Data Pipelines
+- **Algorithms:** Advanced Graph Algorithms, Tree Structures (Segment / Fenwick), Peak 1728 CodeChef / 100% Hard acceptance on LeetCode
 
-## **AI**-Driven Engineering Philosophy
+---
 
-My approach to software engineering is rooted in an **AI-first mindset**. I
-believe that modern development is most effective when human expertise is
-augmented by a powerful, integrated set of **AI tools**. This philosophy is not
-about replacing fundamental skills but amplifying them. By leveraging **AI**
-for everything from designing a system's structure and code generation to advanced
-debugging and workflow automation, I can build more robust, sophisticated, and
-real-world systems in a fraction of the time.
-
-This methodology allows me to focus on high-level problem-solving and creative
-solutions, while **AI** handles the routine, boilerplate, and often
-time-consuming aspects of development. The result is a highly efficient
-workflow that produces high-quality, maintainable, and innovative software.
-
-## **AI** Toolchain & Infrastructure
-
-- **Core **AI** Assistants:**
-  - **Gemini & Claude:** For advanced reasoning, architectural design, and
-    complex code generation.
-  - **Copilot, Cursor, and Gemini Code Assist:** For intelligent, real-time code
-    completion and
-    **AI-native** editing.
-  - **Jules:** For asynchronous coding tasks and overnight jobs.
-  - **Perplexity:** For specialized coding tasks, research, and
-    exploring novel solutions.
-- **Supporting Infrastructure:**
-  - A dedicated cluster of **12 servers** for development, testing, and
-    deployment:
-    - **Docker:** An open-source platform to build, package, and run applications
-      in lightweight, portable containers.
-    - **Supabase:** An open-source Backend-as-a-Service platform with a managed
-      PostgreSQL database, authentication, and serverless functions.
-    - **Github:** A web-based platform for hosting and managing Git repositories,
-      enabling collaborative code development and version control.
-    - **Context7:** Provide up to date documentation of libraries and frameworks.
-    - **Perplexity:** A conversational search engine that provides direct,
-      context-aware answers with source citations.
-    - **Time:** Can get the time.
-    - **Cloudflare:** A global cloud platform for CDN, cybersecurity,
-      DDoS mitigation, and internet security services.
-    - **Filesystem:** Can Read and Write files in my system.
-    - **Memory:** Can build knowledge graphs regarding the user or codebase.
-    - **Zapier:** An automation platform that connects and integrates web
-      applications to automate workflows.
-    - **Google Workspace:** A cloud-based suite of productivity and collaboration
-      tools including Gmail, Drive, Docs, Sheets, and Slides.
-    - **Sequential Thinking:** A tool for dynamic and reflective problem-solving
-      through a structured thinking process.
-
-## Professional Summary
-
-**AI-driven** Software Engineer with deep expertise in full-stack development and
-modern C++, complemented by a strong background in algorithmic problem-solving.
-My main area of expertise is designing and building complex, reliable applications
-by leveraging a powerful, integrated set of **AI tools**. I specialize in creating
-automated, highly efficient workflows that enhance code quality, accelerate
-development, and drive innovation.
-
-## Personal Statement
-
-I am a software engineer who thrives on combining advanced algorithms,
-full-stack development, and modern **AI-driven engineering**. My passion lies
-in building complex, high-impact solutions, and my methodology is defined by a
-deep integration of **AI** tools throughout the entire development lifecycle.
-
-My work on **Bookify**, an event booking platform ready for real-world use, is a
-testament to this philosophy. I designed and built this application from
-the ground up using React, TypeScript, and Supabase, with **Gemini** and
-**Claude** as my constant collaborators for system design, code
-generation, and debugging. This project, which led to a commercial opportunity,
-showcases my ability to deliver high-quality software suitable for businesses in
-a highly efficient, **AI-first** manner.
-
-This same **AI-augmented** approach is evident in my other projects, such as
-the **Interactive Tic-Tac-Toe Game**. Here, I applied a modern frontend
-stack—React, TypeScript, and Tailwind CSS—to a classic problem, focusing on a
-clean, responsive UI, and a modular codebase. The game's logic is neatly
-organized into a reusable component (`useTicTacToe`), demonstrating my
-commitment to writing maintainable, well-structured code, a process
-significantly streamlined by my set of **AI tools**.
-
-I am constantly seeking opportunities to push the boundaries of what's possible
-with an **AI-augmented workflow**. My unique blend of full-stack expertise,
-deep algorithmic knowledge, and a modern set of **AI tools** allows me to
-tackle complex challenges with creativity and efficiency.
-
-## Education
-
-**B.Tech Computer Science** _(July 2018 - April 2022)_
-
-- N.M.I.M.S. University, Mumbai
-- CGPA: 3.11/4.00
-
-**Higher Secondary Certificate (HSC)** _(12th Grade 2017)_
-
-- Nirmala Memorial Foundation College
-- Percentage: 70.77%
-
-## Professional Experience
-
-**Software Engineer - Clarion (Mumbai)** _(January 2024 - Present)_
-- Architected and documented the complete system design for the Bookify platform using TypeScript, Supabase, and Vercel.
-- Implemented secure authentication with JWT and Row-Level Security (RLS) for multi-tenant data access.
-- Developed core database logic, API endpoints, and edge functions for real-time services.
-- Established production-grade CI/CD workflows and a comprehensive testing strategy.
-
-**Software Engineer - Flexera (Bangalore)** _(December 2022 - November 2023)_
-
-- Developed and maintained software solutions in a remote-first environment.
-- Collaborated with cross-functional teams on enterprise-level applications.
-
-**Software Engineer - Lentra (Pune)** _(May 2022 - August 2022)_
-
-- Contributed to fintech applications and backend systems.
-- Gained experience in production software development.
-
-## Projects Portfolio
-
-### **Bookify** - Event Booking Platform (2025) - Production Ready
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=bookify&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/bookify)
-
-- **Technologies:** React, TypeScript, Vite, Supabase, Shadcn/UI, PLpgSQL,
-  PostgreSQL
-- **Full-Stack Application:** Comprehensive event booking and ticketing system.
-- **Advanced Database Design:** Complex relational schema with Row Level
-  Security (RLS).
-- **Security & Performance:** JWT authentication, Google OAuth, and intelligent
-  caching.
-- **DevOps & Quality:** Automated build and deployment (CI/CD) pipeline, 100%
-  TypeScript coverage, and comprehensive testing.
-- **Outcome:** Led to a commercial opportunity and mentor validation for
-  high-quality code suitable for large-scale applications.
-
-### **The Automaton** - AI-Powered Task Automation
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=The-Automaton&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/The-Automaton)
-
-- **Technologies:** Python, AI, Automation
-- **Features:** An AI-driven automation tool.
-- **Learning Focus:** Explored advanced AI concepts and automation techniques.
-
-### **Interactive Tic-Tac-Toe Game**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=Tic-Tac-Toe&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/Tic-Tac-Toe)
-
-- **Technologies:** React, TypeScript, Vite, Tailwind CSS, Shadcn/ui
-- **Features:** Modern frontend stack, interactive gameplay, and a responsive
-  design.
-- **Learning Focus:** User interface interactions, game state management, and
-  algorithmic thinking in a modern React environment.
-
-### **Universal C++20 Competitive Programming Template**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaipkapoor99&repo=CP-Template&theme=radical&hide_border=true&cache_bust=0)](https://github.com/jaipkapoor99/CP-Template)
-
-- **Technologies:** C++20, PowerShell, Bash, Python, Cross-Platform
-  Development
-- **Technical Achievements:** Advanced C++20 features, modular design, and
-  an automated testing framework.
-- **Impact:** Battle-tested across 56+ Codeforces contests, solving 757+ unique
-  problems.
-- **Innovation:** An **AI-assisted** development approach ensuring modern C++
-  best practices.
-
-## Competitive Programming Achievements
-
-- **Codeforces:** Peak Rating: 1374 (Pupil), 757+ problems solved.
-- **LeetCode:** Top 19.62% global ranking, 100% acceptance rate on Hard problems.
-- **Codechef** 3 Stars, Max Rating: 1728
-
-## Technical Skills
-
-<!-- markdownlint-disable MD013 -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nodejs,postgres,supabase,git,github,vscode,powershell,bash&theme=dark)](https://skillicons.dev)
-<!-- markdownlint-enable MD013 -->
-
-- **Programming Languages:** C++20 (Expert), TypeScript, JavaScript, Python
-
-- **C++ Expertise:** Advanced C++ template techniques, modern C++20 features,
-and performance optimization.
-
-- **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind CSS, Shadcn
-
-- **Databases & Tools:** PostgreSQL, Supabase, PLpgSQL, RLS, JWT, Git, Vite, Prisma
-
-- **Algorithmic Skills:** Advanced data structures and algorithms
-(Segment Trees, Fenwick Trees, Graph Algorithms).
-
-## _Last Updated: September 2, 2025_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true" alt="Jai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
