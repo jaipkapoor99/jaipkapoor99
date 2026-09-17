@@ -15,6 +15,13 @@
 
 ---
 
+### 🌐 Open Source & Chess Engineering
+
+- **♟️ [Leela Chess Zero (lc0)](https://github.com/LeelaChessZero/lc0)** — Contributor to the open-source neural network chess engine with GPU acceleration.
+- **🥐 [en-croissant (fork)](https://github.com/jaipkapoor99/en-croissant)** — Personal fork and active work on the ultimate cross-platform chess toolkit built with Rust and TypeScript.
+
+---
+
 ### 🛠️ Tech Stack
 
 - **Languages:** C++20, Python, TypeScript, JavaScript, SQL (PostgreSQL, PL/pgSQL), Bash
