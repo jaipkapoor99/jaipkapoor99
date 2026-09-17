@@ -5,13 +5,10 @@
 
 ---
 
-### ⚡ What I Build
+### ⚡ Featured Projects
 
 - **🤖 [Ultron](https://github.com/jaipkapoor99/ultron)** — 113M parameter SOTA LLM pre-trained from scratch on 10B FineWeb-Edu tokens featuring the Muon Optimizer, RoPE, GQA, SwiGLU, and zero-copy streaming.
 - **♟️ [chess-ds](https://github.com/jaipkapoor99/chess-ds)** — Pedagogical chess data science and engine analytics platform.
-- **⚙️ [CP-Template](https://github.com/jaipkapoor99/CP-Template)** — Modular, high-performance C++20 competitive programming framework tested across 750+ algorithmic problems.
-- **🚀 [The-Automaton](https://github.com/jaipkapoor99/The-Automaton)** — AI-driven developer automation toolkit streamlining modern engineering workflows.
-- **🛠️ [Provue-Demo](https://github.com/jaipkapoor99/Provue-Demo)** — Microservices dashboard architecture built with Next.js, Fastify, Express, PostgreSQL, and Docker.
 
 ---
 
@@ -31,7 +28,12 @@
 
 ---
 
+### 📊 Live Contribution & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true" alt="Jai's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=jaipkapoor99&theme=radical&hide_border=true" alt="Live GitHub Contributions & Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jaipkapoor99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Jai's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaipkapoor99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
